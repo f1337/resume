@@ -1,4 +1,5 @@
 ---
+weight: 10
 author: Brian Celenza
 title: Vice President, Innovation at Amplifi Commerce
 linkedin_path: in/bcelenza

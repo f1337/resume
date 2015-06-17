@@ -1,4 +1,5 @@
 ---
+weight: 40
 author: Kurt Collins
 title: Techie, Entrepreneur and Social Activist
 linkedin_path: in/kurtcollins

@@ -1,4 +1,5 @@
 ---
+weight: 20
 author: Daniel Milliron
 title: President at Milliron & Associates
 linkedin_path: in/danielmilliron

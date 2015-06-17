@@ -68,7 +68,8 @@ layout: default
 		<h2 class="page-heading">Recommendations</h2>
 
 		<ul class="post-list">
-			{% for post in site.categories['recommendation'] %}
+			{% assign recommendations = site.categories['recommendation'] | sort:"weight"  %}
+			{% for post in recommendations %}
 				<li>
 					{% include recommendation.html %}
 				</li>

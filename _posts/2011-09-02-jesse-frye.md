@@ -1,4 +1,5 @@
 ---
+weight: 60
 author: Jesse Frye
 title: Co-Founder at WeeShip
 linkedin_path: in/jessefrye

@@ -1,4 +1,5 @@
 ---
+weight: 100
 author: Noreen Compton
 title: Content Strategist, Content Manager, Copywriter, Social Media Coordinator
 linkedin_path: in/noreencompton

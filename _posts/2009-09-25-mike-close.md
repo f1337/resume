@@ -1,4 +1,5 @@
 ---
+weight: 30
 author: Mike Close
 title: Senior iOS Developer at Salesforce.com
 linkedin_path: in/lightmedium

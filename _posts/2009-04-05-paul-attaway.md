@@ -1,4 +1,5 @@
 ---
+weight: 70
 author: Paul Attaway
 title: President & Founder at CTP Funding
 linkedin_path: in/paulattaway

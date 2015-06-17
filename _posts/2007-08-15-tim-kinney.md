@@ -1,4 +1,5 @@
 ---
+weight: 80
 author: Tim Kinney
 title: President at Kinney Strategy
 linkedin_path: in/timkinney

@@ -1,4 +1,5 @@
 ---
+weight: 50
 author: Thomas Burleson
 title: Team Lead, AngularJS Material, Google
 linkedin_path: in/thomasburleson
