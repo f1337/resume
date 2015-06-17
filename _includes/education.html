@@ -1,0 +1,17 @@
+<article class="post">
+
+	<header class="post-header">
+		<h3 class="post-title">{{ post.school }}</h1>
+		<h4>{{ post.field }}</h2>
+		<h5 class="post-meta">
+			<time datetime="{{post.date}}">{{ post.date | date: "%Y" }}</time>
+			–
+			<time datetime="{{post.end_date}}">{{ post.end_date | date: "%Y" }}</time>
+		</h5>
+	</header>
+
+	<section class="post-content">
+		{{ post.content }}
+	</section>
+
+</article>

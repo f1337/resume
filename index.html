@@ -1,0 +1,78 @@
+---
+layout: default
+---
+
+<div class="home">
+
+
+	<section id="summary">
+		<header>
+			<h2 class="page-heading">Summary</h2>
+		</header>
+
+		<p class="text">{{ site.categories['summary'] | first }}</p>
+	</section>
+
+
+	<section id="skills">
+		<header>
+			<h2 class="page-heading">Skills</h2>
+		</header>
+
+		<ul>
+			{% for skill in site.data.skills %}
+				<li>{{ skill }}</li>
+			{% endfor %}
+		</ul>
+	</section>
+
+	<section id="experience">
+		<h2 class="page-heading">Experience</h2>
+
+		<ul class="post-list">
+			{% for post in site.categories['experience'] %}
+				<li>
+					{% include experience.html %}
+				</li>
+			{% endfor %}
+		</ul>
+	</section>
+
+	<section id="patents">
+		<header>
+			<h2 class="page-heading">Patents</h2>
+		</header>
+
+		<ul class="post-list">
+			{% for patent in site.data.patents %}
+				<li>
+					{% include patent.html %}
+				</li>
+			{% endfor %}
+		</ul>
+	</section>
+
+	<section id="education">
+		<h2 class="page-heading">Education</h2>
+
+		<ul class="post-list">
+			{% for post in site.categories['education'] %}
+				<li>
+					{% include education.html %}
+				</li>
+			{% endfor %}
+		</ul>
+	</section>
+
+	<section id="recommendations">
+		<h2 class="page-heading">Recommendations</h2>
+
+		<ul class="post-list">
+			{% for post in site.categories['recommendation'] %}
+				<li>
+					{% include recommendation.html %}
+				</li>
+			{% endfor %}
+		</ul>
+	</section>
+</div>
