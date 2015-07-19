@@ -8,3 +8,4 @@ email: resume@f1337.us
 
 # Build settings
 markdown: kramdown
+exclude: [ 'archive', 'Gemfile', 'Gemifile.lock' ]
