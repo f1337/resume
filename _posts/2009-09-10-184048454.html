@@ -1,0 +1,89 @@
+---
+layout: post
+title: Easy Unobtrusive JavaScript with jQuery and Rails
+date: 2009-09-10 00:00:00.000000000 -07:00
+categories:
+- essays
+tags:
+- code
+- jquery
+- rails
+- ruby
+status: publish
+type: post
+published: true
+meta: {}
+author:
+  login: fantasticmf
+  email: mofosho+wordpress@fantasticmf.com
+  display_name: michael
+  first_name: Michael
+  last_name: Fleet
+
+
+---
+<p>### Using 5 (logical) lines of code<br />
+##### app/views/layouts/rockets.html.erb:</p>
+<p>    <head><br />
+        ...<br />
+        <%= javascript_include_tag 'http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js' %><br />
+        ...<br />
+    </head></p>
+<p>##### app/views/rockets/index.html.erb:</p>
+<p>    <%= link_to('', edit_rockets_path(@rocket), :class => 'edit', :title => 'Editing Rocket') %></p>
+<p>##### public/javascripts/application.js:</p>
+<p>    // when the dom is ready to be manipulated<br />
+    $(document).ready(function ()<br />
+    {<br />
+        // for every <a class="edit"></a><br />
+        $('a.edit').each(function (i)<br />
+        {<br />
+            // make the empty anchor visible by adding some text<br />
+            // <a class="edit">edit</a><br />
+        	$(elem).html('edit');<br />
+        });<br />
+    });</p>
+<p>Easy. :)</p>
+<p>### A little fancier, still under 20 (logical) lines of code</p>
+<p>For this example, download [Shadowbox](http://www.shadowbox-js.com/), and move it to public/shadowbox.</p>
+<p>##### app/views/layouts/rockets.html.erb:</p>
+<p>    <head><br />
+        ...<br />
+        <%= javascript_include_tag 'http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js' %><br />
+        <%= stylesheet_link_tag '/shadowbox/shadowbox.css' %><br />
+        <%= javascript_include_tag '/shadowbox/shadowbox.js' %><br />
+        ...<br />
+    </head></p>
+<p>##### app/views/rockets/index.html.erb:</p>
+<p>    <%= link_to('', edit_rockets_path(@rocket), :class => 'edit', :title => 'Editing Rocket') %></p>
+<p>##### public/javascripts/application.js:</p>
+<p>    // initialize Shadowbox<br />
+    Shadowbox.init({<br />
+    	players: 	[ 'iframe' ]<br />
+    });</p>
+<p>    // when the dom is ready to be manipulated<br />
+    $(document).ready(function ()<br />
+    {<br />
+        // for every <a class="edit"></a><br />
+        $('a.edit').each(function (i)<br />
+        {<br />
+            // make the empty anchor visible by adding some text<br />
+            // <a class="edit">edit</a><br />
+        	$(elem).html('edit');</p>
+<p>        	// when the anchor is clicked<br />
+        	$(elem).click(function ()<br />
+        	{<br />
+                // open Shadowbox<br />
+                Shadowbox.open({<br />
+                    // load the anchor's href in an iframe<br />
+                    content:    $(this).attr('href'),<br />
+                    player:     'iframe',<br />
+                    // set Shadowbox caption to anchor's title property<br />
+                    title:      $(this).attr('title')<br />
+                });<br />
+                // stop the browser from redirecting<br />
+                // to the href page (it's in the iframe already)<br />
+        		return false;<br />
+        	});<br />
+        });<br />
+    });</p>

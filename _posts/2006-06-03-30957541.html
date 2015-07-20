@@ -1,0 +1,37 @@
+---
+layout: post
+title: Subversion + Natural Docs + GeSHi
+date: 2006-06-03 00:24:00.000000000 -07:00
+categories:
+- essays
+tags:
+- subversion
+status: publish
+type: post
+published: true
+meta: {}
+author:
+  login: fantasticmf
+  email: mofosho+wordpress@fantasticmf.com
+  display_name: michael
+  first_name: Michael
+  last_name: Fleet
+
+
+---
+<p>1. install <a href="http://subversion.tigris.org/" target="_new">subversion</a><br />
+2. install <a href="http://www.naturaldocs.org/" target="_new">natural docs</a> in /home/naturaldocs<br />
+3. install <a href="http://qbnz.com/highlighter/" target="_new">GeSHi</a> in /home/geshi<br />
+3. create master subversion repository for ALL projects in /home/repo/<br />
+4. create local working copy for processing in /home/src/<br />
+5. copy post-commit script below to /home/repo/hooks/post-commit<br />
+6. chmod 755 /home/repo/hooks/post-commit<br />
+7. <b>TODO:</b> show PHP script using GeSHi to highlight the source in /home/src</p>
+<pre><code class="ruby">#!/bin/sh
+# Update local working copy
+svn update /home/src
+# Normalize line endings using zip hack (Flash OS X bug)
+zip -uqr /home/src/src.zip /home/src/* -i \*.as && unzip -d / -aqo /home/src/src.zip
+# Generate documentation
+/home/naturaldocs/NaturalDocs -i /home/src -o HTML /var/www/html/docs -p /home/ndinfo
+</code></pre>

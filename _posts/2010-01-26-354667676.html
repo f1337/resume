@@ -1,0 +1,39 @@
+---
+layout: post
+title: CakePHP Migrations on Mac OS X 10.6 Snow Leopard
+date: 2010-01-26 18:32:00.000000000 -08:00
+categories:
+- essays
+tags:
+- cake
+- os x
+- php
+status: publish
+type: post
+published: true
+meta: {}
+author:
+  login: fantasticmf
+  email: mofosho+wordpress@fantasticmf.com
+  display_name: michael
+  first_name: Michael
+  last_name: Fleet
+
+
+---
+<p>1. [Enable PHP, install PEAR, update system PATH, and update PHP include_path](http://www.newmediacampaigns.com/page/install-pear-phpunit-xdebug-on-macosx-snow-leopard)<br />
+2. Open Terminal and install MDB2:</p>
+<p>        cd /usr/local<br />
+        sudo pear install MDB2-2.5.0b2<br />
+        sudo pear install MDB2_Driver_mysql-1.5.0b2<br />
+And then...</p>
+<p>3. Install [CakePHP DB Migrations](http://codaset.com/joelmoss/cakephp-db-migrations/wiki/installation)</p>
+<p>4. If MDB2 throws a "Native Code: 2002" error when you "cake migrate" or "cake populate", PHP is probably looking for mysql.sock in a place it doesn't exist. Open **/etc/php.ini**, and locate the following lines (they exist in separate blocks in php.ini, grouped here for brevity):</p>
+<p>        pdo_mysql.default_socket = /var/mysql/mysql.sock<br />
+        mysql.default_socket = /var/mysql/mysql.sock</p>
+<p>    Then change the lines to read:</p>
+<p>        pdo_mysql.default_socket =<br />
+        mysql.default_socket =<br />
+    By setting an empty default socket, PHP will use the built-in MySOL defaults.</p>
+<p>5. Restart Apache:</p>
+<p>        sudo /usr/sbin/apachectl restart</p>

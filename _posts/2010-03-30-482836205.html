@@ -1,0 +1,35 @@
+---
+layout: post
+title: Line Breaks and Multiline Strings in YAML
+date: 2010-03-30 00:18:48.000000000 -07:00
+categories:
+- essays
+tags:
+- code
+- yaml
+status: publish
+type: post
+published: true
+meta: {}
+author:
+  login: fantasticmf
+  email: mofosho+wordpress@fantasticmf.com
+  display_name: michael
+  first_name: Michael
+  last_name: Fleet
+
+
+---
+<p>A simple introduction courtesy of [Symfony](http://www.symfony-project.org/book/1_2/05-Configuring-Symfony#chapter_05_sub_yaml_syntax_and_symfony_conventions):</p>
+<p># Folded style, introduced by ><br />
+    # Each line break is folded to a space<br />
+    # Makes YAML more readable<br />
+    accomplishment: ><br />
+      Mark set a major league<br />
+      home run record in 1998.</p>
+<p>    # Literal style, introduced by |<br />
+    # All line breaks count<br />
+    # Indentation doesn't appear in the resulting string<br />
+    stats: |<br />
+      65 Home Runs<br />
+      0.278 Batting Average</p>

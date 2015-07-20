@@ -1,0 +1,91 @@
+---
+layout: post
+title: 'MVC Web Frameworks: PHP vs. JVM'
+date: 2010-04-29 02:31:00.000000000 -07:00
+categories:
+- essays
+tags:
+- cake
+- grails
+- groovy
+- lift
+- mvc
+- php
+- rails
+- ruby
+- scala
+- scaling
+- zend
+status: publish
+type: post
+published: true
+meta: {}
+author:
+  login: fantasticmf
+  email: mofosho+wordpress@fantasticmf.com
+  display_name: michael
+  first_name: Michael
+  last_name: Fleet
+
+
+---
+<p>I am reviewing web frameworks for product development at [Resource Interactive](http://www.resource.com/). Here are my thoughts. Please keep this in mind when reading the following: ALL of the statements below are OPINIONS. Please feel free to disagree. :)</p>
+<p>## Problem</p>
+<p>We've been using CakePHP for 6 months, but recently it has been getting in our way on a daily basis. We need a framework that requires less irritating "patch the ORM" work, and one whose design philosophy is a little closer to ours. We've identified the following scaling concerns, in order of severity (for our products):</p>
+<p>1. Time spent developing software<br />
+2. Time spent maintaining software<br />
+3. Time spent training new developers<br />
+4. Time spent "scaling up" hardware/systems</p>
+<p>## Solutions</p>
+<p>For a number of reasons, we've narrowed our choices for application servers down to PHP and a JVM (probably JBoss, but which JVM isn't material to us at the moment).</p>
+<p>## JVM</p>
+<p>IMO, if we're gonna run a JVM, we have our choice of the leading frameworks available. I'm not going to gush here, but I can assert that the first two frameworks provide everything we need from the PHP frameworks below and more (YMMV). Listed below in order of *professional* recommendation (my subjective preference would list RoR first):</p>
+<p>### Grails<br />
+**Tutorial**: [Your first Grails Application](https://www.ibm.com/developerworks/java/library/j-grails01158/)<br />
+[Grails ](http://www.grails.org/) is a Rails-esque framework that leverages the [Groovy](http://groovy.codehaus.org/) language and the [Spring](http://www.springsource.org/) framework. Today Grails is comparable to Rails in maturity and arguably more attractive to CIO/CTOs who like to say "[enterprise](http://www.subtraction.com/2007/10/19/if-it-looks-)," because Groovy compiles to Java bytecode and runs native in the JVM.</p>
+<p>### Ruby on Rails (RoR)<br />
+**Tutorial**: [Creating the Blog Application](http://guides.rubyonrails.org/getting_started.html#creating-the-blog-application)<br />
+[Ruby on Rails](http://rubyonrails.org/) is the framework that started it all: the [envy](http://blog.envylabs.com/2010/04/rails-envy/), the [framework wars](http://www.google.com/search?q=framework+wars), and the never-ending stream of [clones](http://www.google.com/search?q=rails+clones). Rails is arguably more attractive to hackers who like to say “[USS Enterprise](http://www.startrek.com/startrek/view/library/ships/article/70377.html),” but still appease the other "[enterprise](http://www.subtraction.com/2007/10/19/if-it-looks-)" by running in a JVM via the [jruby](http://jruby.org/) interpreter.</p>
+<p>### Lift<br />
+**Tutorial**: [Starting with Lift](http://liftweb.net/docs/getting_started/mod_master.html#x1-80002.2)<br />
+[Lift](http://liftweb.net/) has been making a lot of noise lately, in no small amount due to its use of the [Scala](http://www.scala-lang.org/) language, and Twitter's success scaling Scala. Lift borrows design principles from Seaside, Rails, Django and Wicket. Very high performance, and like Groovy, Scala compiles to Java bytecode and runs native in the JVM. But Scala is also grizzly-looking code. Can't they roll a DSL into Lift?</p>
+<p>### Spring<br />
+[Spring](http://www.springsource.org/) is powerful and fast in its own right (without Grails), but our application runs plenty fast in CakePHP, so requests per second is not on our list of performance concerns right now.</p>
+<p>## PHP</p>
+<p>### Zend<br />
+**Tutorial**: [Zend_Controller Quick Start](http://framework.zend.com/manual/en/zend.controller.quickstart.html)<br />
+If you tie my hands and force me to use PHP, then I'll endorse [Zend](http://framework.zend.com/) over the rest. Seriously, though, this framework has improved a LOT since my last gander. It juggles responses for different content-types. There is even a DB [migrations plugin](http://framework.zend.com/wiki/display/ZFPROP/Zend_Db_Schema_Manager+-+Rob+Allen) under development.</p>
+<p>### Kohana<br />
+**Tutorial**: [Kohana 101](http://dev.kohanaframework.org/wiki/kohana2/Kohana101#Show-me-Dont-tell-me)<br />
+[Kohana](http://kohanaframework.org/) is promising, but missing content-type juggling at the controller level. Someday, I hope Kohana or CodeIgniter or Sapphire (like Zend today) will crush Cake in the "Rails clone" category, but they're a couple/few years away, IMO. I dislike Kohana's "template controllers": I think the "specialized view controller" pattern points to a general misuse or misunderstanding of the "action controller" pattern.</p>
+<p>### Codeigniter<br />
+**Tutorial**: [Codeigniter "Hello World"](http://codeigniter.com/user_guide/general/controllers.html#hello)<br />
+[Codeigniter](http://codeigniter.com/)  is also promising, but also missing content-type juggling at the controller level. I dislike Codeigniter's "template regions" pattern, because I feel it breaches the separation between view and controller too easily, which can lead to developer hacks, avoiding which is part of the purpose of a framework. :P</p>
+<p>### Sapphire<br />
+[Sapphire](http://www.silverstripe.org/sapphire) *looks* very sexy, but the documentation is weak, and at the moment, Sapphire is NOT independent from SilverStripe: "The best way to get started with Sapphire is by extending the SilverStripe CMS."</p>
+<p>### PHPulse<br />
+**Tutorial**: [PHPulse "Hello Who?"](http://sourceforge.net/apps/mediawiki/phpulse/index.php?title=Hello_WHO%3F)<br />
+[PHPulse](http://www.phpulse.com/) touts incredible speed, but spectacularly fails my [syntactic sugar](http://en.wikipedia.org/wiki/Syntactic_sugar) and "[love what you do](http://www.trumpuniversity.com/mynetwork/inside-trump-tower/issue01.cfm)" standards. IOW: It's no fun, and no fun means we get less done. :(</p>
+<p>### Doo, Yii<br />
+[Doo](http://doophp.com/) and [Yii]() have a lot in common: Both are incredibly fast Rails clones written in PHP, but both also suffer from being "too light" and "too immature" for our needs.</p>
+<p>### CakePHP<br />
+CakePHP is the framework we're abandoning: It's just not as "clean" or "friendly" as its competitors, and the ORM is downright obnoxious IME.</p>
+<p>### Akelos<br />
+The last time I used Akelos, I [abandoned it for CakePHP](http://michael.f1337.us/post/34370125/akelos-vs-cake-let-me-eat-cake).</p>
+<p>## Comparisons</p>
+<p>**CAVEAT**: None of the benchmarks provided are authoritative for our situation. They can't be, by definition, because our application is not the one tested. Until we perform our own apples-to-oranges comparison, we can safely treat these as anecdotal evidence.</p>
+<p>[PHP Framework Comparison Benchmarks](http://avnetlabs.com/php/php-framework-comparison-benchmarks)<br />
+Summary:<br />
+ZEND is 2-4x faster than CAKE.<br />
+RAILS (RoR) is 1.5-2x faster than ZEND.<br />
+CODEIGNITER is 2-3x faster than ZEND.<br />
+CODEIGNITER is ~20% faster than RAILS (RoR).</p>
+<p>[Rails and Grails Performance Compared](http://www.anyware.co.uk/2005/2007/03/23/rails-and-grails-performance-compared/)<br />
+[Grails vs. Rails Benchmark](http://grails.org/Grails+vs+Rails+Benchmark)<br />
+Summary:<br />
+GRAILS is 2-5x faster than RAILS (RoR)</p>
+<p>### Further reading<br />
+[Intro to Grails for PHP developers](http://michaelkimsal.com/blog/grails-for-php-developers/grails-for-php-developers-part-1/)<br />
+[JVM Web Framework Smackdown: Grails vs. Rails vs. Helma](http://www.linux-mag.com/id/7479/2/)<br />
+[A comparison of the ORM syntax for Rails, Grails, and Django](http://www.peterkrantz.com/2009/rails-grails-django-models/)<br />
+[A comparison of the "marketability" of Rails, Grails, Django, and PHP framework skills](http://ocdevel.com/blog/grails-vs-rails-vs-django-grails-wins)</p>

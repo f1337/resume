@@ -1,0 +1,52 @@
+---
+layout: post
+title: rsync iTunes
+date: 2009-07-11 00:24:00.000000000 -07:00
+categories:
+- essays
+tags:
+- lifehack
+status: publish
+type: post
+published: true
+meta: {}
+author:
+  login: fantasticmf
+  email: mofosho+wordpress@fantasticmf.com
+  display_name: michael
+  first_name: Michael
+  last_name: Fleet
+
+
+---
+<p>##### Update: November 2009<br />
+iTunes Home Sharing renders this technique obsolete.</p>
+<p>##### Sync Desktop iTunes library to Laptop:</p>
+<pre><code>rsync \
+--ignore-existing \
+--progress \
+--recursive \
+--perms \
+--times \
+--human-readable \
+--exclude-from='/Users/laptopuser/.exclude_from_itunes_sync' \
+-e 'ssh' \
+--dry-run \
+'desktopuser@desktop.local:/Users/desktopuser/Music/iTunes/iTunes\ Music/' \
+'/Users/laptopuser/Music/iTunes/iTunes Music'
+</code></pre>
+<p>##### Sync Laptop iTunes library to Desktop:</p>
+<pre><code>rsync \
+--ignore-existing \
+--progress \
+--recursive \
+--perms \
+--times \
+--human-readable \
+--exclude-from='/Users/laptopuser/.exclude_from_itunes_sync' \
+-e 'ssh' \
+--dry-run \
+'/Users/laptopuser/Music/iTunes/iTunes Music/' \
+'desktopuser@desktop.local:/Users/desktopuser/Music/iTunes/iTunes\ Music'
+</code></pre>
+<p>Remove <code>--dry-run</code> from commands when you're done testing and ready to sync.</p>

@@ -1,0 +1,31 @@
+---
+layout: post
+title: 'Easy as "Pie": Perl one-line recursive search and replace'
+date: 2010-05-05 16:52:00.000000000 -07:00
+categories:
+- links
+tags:
+- perl
+status: publish
+type: post
+published: true
+meta: {}
+author:
+  login: fantasticmf
+  email: mofosho+wordpress@fantasticmf.com
+  display_name: michael
+  first_name: Michael
+  last_name: Fleet
+
+
+---
+<p>Link: <a href="http://joseph.randomnetworks.com/archives/2005/08/18/perl-oneliner-recursive-search-and-replace/">Easy as "Pie": Perl one-line recursive search and replace</a></p>
+<p>If you learn nothing else in Perl, for the love of sanity, learn this one line.</p>
+<p>Replace all occurrences of "oldstring" with "newstring" in all files (no recursion):</p>
+<p>    perl -pi -e 's/oldstring/newstring/g' *</p>
+<p>Replace all occurrences of "oldstring" with "newstring" in all HTML files recursively:</p>
+<p>    perl -pi -e 's/oldstring/newstring/g' `find ./ -name *.html`</p>
+<p>Replace all occurrences of "oldstring" with "newstring" in all files recursively:</p>
+<p>    perl -pi -e 's/oldstring/newstring/g' `grep -irl oldstring *`</p>
+<p>Replace all occurrences of "oldstring" with "newstring" in all files recursively, excluding .svn directories:</p>
+<p>    perl -pi -e 's/oldstring/newstring/g' `grep -irl oldstring * | grep -v .svn'</p>

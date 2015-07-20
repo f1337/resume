@@ -1,0 +1,30 @@
+---
+layout: post
+title: Installing libxml-ruby on CentOS 5.3
+date: 2009-08-26 19:59:00.000000000 -07:00
+categories:
+- essays
+tags:
+- linux
+- ruby
+status: publish
+type: post
+published: true
+meta: {}
+author:
+  login: fantasticmf
+  email: mofosho+wordpress@fantasticmf.com
+  display_name: michael
+  first_name: Michael
+  last_name: Fleet
+
+
+---
+<p>A typical process for public-facing production servers. Tested in i386 and x86_64 environments.<br />
+Basic security protocol suggests no compilers or headers are available on public-facing servers*. Install missing compilers, headers:</p>
+<p>    yum install gcc make libxml2-devel</p>
+<p>Install the libxml-ruby gem:</p>
+<p>    gem install libxml-ruby --no-rdoc --no-ri</p>
+<p>Remove compilers, headers and their dependencies:</p>
+<p>    yum erase gcc binutils cpp glibc-devel glibc-headers kernel-headers libgomp libxml2-devel pkgconfig zlib-devel make</p>
+<p>\* Many years working in e-commerce, fending off various attacks and threats, has nurtured a healthy sense of caution. Do *not* leave unused compilers and headers installed on public-facing machines.</p>

@@ -1,0 +1,53 @@
+---
+layout: post
+title: CakePHP + mod_rewrite on Snow Leopard
+date: 2009-11-04 21:10:00.000000000 -08:00
+categories:
+- essays
+tags:
+- apache
+- cake
+- code
+- os x
+- php
+status: publish
+type: post
+published: true
+meta:
+  fb-status-updater-meta: a:5:{s:22:"custom-facebook-status";s:0:"";s:21:"custom-twitter-status";s:0:"";s:7:"fb-push";s:1:"1";s:7:"tw-push";s:1:"1";s:4:"push";s:1:"1";}
+  _edit_last: '1'
+author:
+  login: fantasticmf
+  email: mofosho+wordpress@fantasticmf.com
+  display_name: michael
+  first_name: Michael
+  last_name: Fleet
+
+
+---
+<p>Creating a CakePHP 1.2.5 app on a Snow Leopard machine, which comes with PHP 5.3, I encountered the following error when I tried to run the app:<br />
+"The requested URL /Users/username/Sites/cakeapp/app/webroot/ was not found on this server."</p>
+<p>The solution is to use the RewriteBase directive in ~/Sites/cakeapp/.htaccess:</p>
+<p>    <ifmodule mod_rewrite.c><br />
+      RewriteEngine On<br />
+      #  NOTE THE TILDE:<br />
+      RewriteBase /~username/cakeapp/<br />
+      RewriteRule ^$ app/webroot/ [L]<br />
+      RewriteRule (.*) app/webroot/$1 [L]<br />
+    </ifmodule></p>
+<p>AND in ~/Sites/cakeapp/app/.htaccess:</p>
+<p>    <ifmodule mod_rewrite.c><br />
+      RewriteEngine On<br />
+      #  NOTE THE TILDE:<br />
+      RewriteBase /~username/cakeapp/app/<br />
+      RewriteRule ^$ app/webroot/ [L]<br />
+      RewriteRule (.*) app/webroot/$1 [L]<br />
+    </ifmodule></p>
+<p>AND in ~/Sites/cakeapp/app/webroot/.htaccess:</p>
+<p>    <ifmodule mod_rewrite.c><br />
+      RewriteEngine On<br />
+      #  NOTE THE TILDE:<br />
+      RewriteBase /~username/cakeapp/app/webroot/<br />
+      RewriteRule ^$ app/webroot/ [L]<br />
+      RewriteRule (.*) app/webroot/$1 [L]<br />
+    </ifmodule></p>

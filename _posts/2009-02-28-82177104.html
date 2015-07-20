@@ -1,0 +1,25 @@
+---
+layout: post
+title: Ack! "svn revert" when you meant to "svn resolve"
+date: 2009-02-28 03:35:00.000000000 -08:00
+categories:
+- essays
+tags:
+- subversion
+status: publish
+type: post
+published: true
+meta: {}
+author:
+  login: fantasticmf
+  email: mofosho+wordpress@fantasticmf.com
+  display_name: michael
+  first_name: Michael
+  last_name: Fleet
+
+
+---
+<p>If you haven't *checked in* yet, just maybe, a temporary copy of the conflicted file remains:</p>
+<p>cat path/to/reverted/file/.svn/tmp/* > hope_and_pray.txt<br />
+    open hope_and_pray.txt</p>
+<p>Look through the file to see if your missing code is there.</p>

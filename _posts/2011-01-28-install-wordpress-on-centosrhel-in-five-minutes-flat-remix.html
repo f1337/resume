@@ -1,0 +1,87 @@
+---
+layout: post
+title: Install WordPress on CentOS/RHEL in Five Minutes Flat (remix)
+date: 2011-01-28 23:03:27.000000000 -08:00
+categories:
+- essays
+tags:
+- apache
+- centos
+- php
+- rhel
+- wordpress
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  fb-status-updater-meta: a:5:{s:22:"custom-facebook-status";s:0:"";s:21:"custom-twitter-status";s:0:"";s:7:"fb-push";s:1:"1";s:7:"tw-push";s:1:"1";s:4:"push";s:1:"1";}
+  fb-status-updater-sn-reference: a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"595735526_10150376703065527";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:17:"31198948588789760";}}
+  _wp_old_slug: ''
+author:
+  login: fantasticmf
+  email: mofosho+wordpress@fantasticmf.com
+  display_name: michael
+  first_name: Michael
+  last_name: Fleet
+
+
+---
+<p>### Install the System Prerequisites</p>
+<p>`# yum install mysql-server httpd nano php php-mysql`<br />
+`# chkconfig httpd on`<br />
+`# chkconfig mysqld on`<br />
+`# service mysqld start`<br />
+`# service httpd start`</p>
+<p>### Create the Database</p>
+<p>`# mysqladmin create wordpress`<br />
+`# mysql`<br />
+`mysql> GRANT ALL PRIVILEGES ON wordpress.* TO 'wordpress'@'localhost' IDENTIFIED BY 'please+use+a+strong+password';`<br />
+`mysql> FLUSH PRIVILEGES;`<br />
+`mysql> quit`</p>
+<p>### Download and Install WordPress</p>
+<p>`# cd /var/www/`<br />
+`# mkdir wordpress`<br />
+`# cd wordpress`<br />
+`# curl -O http://wordpress.org/latest.tar.gz`<br />
+`# tar xvfz latest.tar.gz`<br />
+`# rm latest.tar.gz`<br />
+`# mv wordpress/ public`<br />
+`# mkdir logs public/wp-content/uploads public/wp-content/cache`<br />
+`# chown apache:apache logs public/wp-content/uploads public/wp-content/cache`<br />
+`# cd public/`</p>
+<p>### Configure WordPress</p>
+<p>Create the WordPress config file outside web root:</p>
+<p>`# mv wp-config-sample.php ../wp-config.php`<br />
+`# curl https://api.wordpress.org/secret-key/1.1/salt/`</p>
+<p>Copy the output to your clipboard before editing wp-config.php.</p>
+<p>`# nano ../wp-config.php`</p>
+<p>    define('DB_NAME', 'wordpress');<br />
+    define('DB_USER', 'wordpress');<br />
+    define('DB_PASSWORD', 'enter+the+strong+password+you+defined');<br />
+    define('DB_HOST', 'localhost');</p>
+<p>&hellip;</p>
+<p>    define('AUTH_KEY', 'pasted from clipboard');<br />
+    define('SECURE_AUTH_KEY', 'pasted from clipboard');<br />
+    define('LOGGED_IN_KEY', 'pasted from clipboard');<br />
+    define('NONCE_KEY', 'pasted from clipboard');<br />
+    define('AUTH_SALT', 'pasted from clipboard');<br />
+    define('SECURE_AUTH_SALT', 'pasted from clipboard');<br />
+    define('LOGGED_IN_SALT', 'pasted from clipboard');<br />
+    define('NONCE_SALT', 'pasted from clipboard');</p>
+<p>### Configure Apache</p>
+<p>`# nano /etc/httpd/conf.d/wordpress.conf`</p>
+<p>    NameVirtualHost *:80<br />
+    <VirtualHost *:80><br />
+      ServerAdmin webmaster@dummy-host.example.com<br />
+      DocumentRoot /var/www/wordpress/public<br />
+      ServerName dummy-host.example.com<br />
+      ErrorLog /var/www/wordpress/logs/error_log<br />
+      CustomLog /var/www/wordpress/logs/access_log common<br />
+      <Directory /var/www/wordpress/public/wp-content><br />
+        Options FollowSymLinks # for pretty permalink support<br />
+        RemoveHandler .php<br />
+        RemoveType text/html .php</p>
+<p>`# service httpd restart`</p>
+<p>### Acknowledgements</p>
+<p>[How to Install WordPress on CentOS 5 in Five Minutes Flat](http://blog.adlibre.org/technology/how-to-install-wordpress-on-centos-5-in-five-minutes-flat.html). Cutler, Andrew. Adlibre. 2010.</p>

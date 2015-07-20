@@ -1,0 +1,232 @@
+.hidden, .email span
+{
+	display: none;
+}
+
+
+html
+{
+  font-size: 100%;
+}
+
+body
+{
+  font-size: 1em;
+  margin: 0;
+  padding: 0;
+}
+
+address
+{
+	font-style: normal;
+}
+
+#body
+{
+	background: #fff;
+	margin: 0.63em;
+	padding: 0.63em;
+}
+
+#footer
+{
+	background: #777;
+	padding: 1em;
+}
+
+#footer
+{
+	color: #eee;
+}
+
+h1
+{
+	color: #333;
+}
+h2
+{
+	color: #333;
+	border-bottom: 2px solid #333;
+	padding-bottom: 0.31em;
+	padding-top: 0.63em;
+}
+ol > li
+{
+	/* clear for FF and Safari */
+	clear: both; 
+	list-style-type: none;
+}
+
+/*
+* CONTACT INFO
+*/
+#inmap
+{
+    height: 200px;
+    float: right;
+}
+
+#contact .postal-code
+{
+    display: none;
+}
+
+#contact li
+{
+	list-style-type: none;
+}
+ol, #contact ul
+{
+	margin-left: 0;
+	padding-left: 0;
+}
+ul
+{
+	padding-left: 1em;
+	margin-left: 1em;
+}
+
+
+/*
+* FORMS
+*/
+.clear
+{
+	clear: both; 
+}
+fieldset
+{
+	float: left;
+	margin: 0;
+	padding: 0;
+	width: 40%;
+}
+.preview
+{
+	float: right;
+	margin: 0;
+	padding: 0;
+	width: 55%;
+}
+form
+{
+	background-color: rgb(255,255,0);
+}
+textarea
+{
+	font-family: monospace;
+	width: 99%;
+}
+
+
+/*
+* EXPERIENCE
+*/
+#experience h3
+{
+	display: inline;
+}
+#experience h4
+{
+	display: inline;
+	font-weight: normal;
+}
+#experience h5
+{
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+}
+#experience .description
+{
+	margin: 1em 0;
+}
+#experience .description li
+{
+	list-style-type: disc;
+}
+
+
+/*
+* EDUCATION
+*/
+#education h3
+{
+	display: inline;
+}
+#education .location
+{
+	font-weight: normal;
+}
+#education h4
+{
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+}
+#education h5
+{
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+}
+
+/*
+* RECOMMENDATIONS
+*/
+#recommendations li img
+{
+	border: 0 none;
+	float: left;
+	/* clear for IE */
+	clear: both;
+	height: 24px;
+	width: 25px;
+	padding: 0;
+	margin: 0 0.6em 0.6em 0;
+}
+#recommendations h4
+{
+	display: inline;
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+}
+#recommendations h5
+{
+	display: inline;
+    font-style: italic;
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+}
+#recommendations .description
+{
+	margin: 1em 0;
+}
+
+
+/*
+* BIBLIOGRAPHY
+*/
+#bibliography li img
+{
+	border: 0 none;
+	float: left;
+	/* clear for IE */
+	clear: both;
+	width: 80px;
+	padding: 0;
+	margin: 0 1em 1em 0;
+}
+
+#bibliography img.spacer
+{
+	border: 1px solid #eee;
+}
+
+#bibliography li ul
+{
+	list-style-type: disc;
+	margin-left: 100px;
+}

@@ -5,7 +5,9 @@ url: "http://michael.f1337.com" # the base hostname & protocol for your site
 github_username: f1337
 linkedin_path: in/f1337 # your linkedin url, without the leading www.linkedin.com/
 email: resume@f1337.us
+paginate: 20
 
 # Build settings
 markdown: kramdown
-exclude: [ 'archive', 'Gemfile', 'Gemifile.lock' ]
+exclude: [ 'archive', 'Gemfile', 'Gemifile.lock', 's3_website.yml' ]
+permalink: /:year/:month/:day/:title/

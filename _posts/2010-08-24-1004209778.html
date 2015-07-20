@@ -1,0 +1,37 @@
+---
+layout: post
+title: Syncing a Local Git-Less Subversion Working Copy with a Remote Git Repository
+date: 2010-08-24 17:16:00.000000000 -07:00
+categories:
+- essays
+tags:
+- git
+- subversion
+status: publish
+type: post
+published: true
+meta: {}
+author:
+  login: fantasticmf
+  email: mofosho+wordpress@fantasticmf.com
+  display_name: michael
+  first_name: Michael
+  last_name: Fleet
+
+
+---
+<p>1. Checkin all your local modifications to svn:<br />
+`svn ci -m "message" .`</p>
+<p>2. Setup git for your local working copy:<br />
+`git init .`</p>
+<p>3. Sync your local working copy with the remote git repository:<br />
+`git remote add origin git@github.com:username/project.git`<br />
+`git pull origin master`</p>
+<p>4. Revert your local working copy to your most recent svn checkin:<br />
+`svn revert -R .`</p>
+<p>5. Double-check your working copy is up-to-date with svn:<br />
+`svn st`</p>
+<p>6. Commit your local changes to the remote git repository:<br />
+`git status`<br />
+`git commit -m "message" file(s)/to/commit`<br />
+`git push origin master`</p>

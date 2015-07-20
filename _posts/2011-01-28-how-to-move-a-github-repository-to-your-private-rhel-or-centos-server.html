@@ -1,0 +1,71 @@
+---
+layout: post
+title: How to Move a Github Repository to Your Private RHEL or CentOS Server
+date: 2011-01-28 23:15:58.000000000 -08:00
+categories:
+- essays
+tags:
+- centos
+- git
+- rhel
+- ssh
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  fb-status-updater-meta: a:5:{s:22:"custom-facebook-status";s:0:"";s:21:"custom-twitter-status";s:0:"";s:7:"fb-push";s:1:"1";s:7:"tw-push";s:1:"1";s:4:"push";s:1:"1";}
+  fb-status-updater-sn-reference: a:2:{i:0;a:2:{i:0;s:8:"facebook";i:1;s:27:"595735526_10150376708580527";}i:1;a:2:{i:0;s:7:"twitter";i:1;s:17:"31202098385256448";}}
+  _wp_old_slug: ''
+author:
+  login: fantasticmf
+  email: mofosho+wordpress@fantasticmf.com
+  display_name: michael
+  first_name: Michael
+  last_name: Fleet
+
+
+---
+<p>### Install Git on Your Private RHEL or CentOS Server</p>
+<p>If you don't use RHEL or CentOS, or if Git is already installed on your server, please skip ahead.</p>
+<p>First, [install the appropriate EPEL repository](http://fedoraproject.org/wiki/EPEL/FAQ#Using_EPEL) on your server:</p>
+<p>`# curl -O http://download.fedora.redhat.com/pub/epel/5/i386/epel-release-5-4.noarch.rpm`<br />
+`# yum --nogpgcheck install epel-release-5-4.noarch.rpm`</p>
+<p>Next, install Git:</p>
+<p>`# yum install git`</p>
+<p>### Create a Bare Clone of the Existing Repository</p>
+<p>From your local machine:</p>
+<p>`$ git clone --bare git@github.com:username/project.git ./project.git`</p>
+<p>A bare repository is one without a working copy of the code: it only contains the repository's Git database. A bare repository on the server will prevent you from accidentally introducing working copy conflicts.</p>
+<p>### Copy the Bare Repository to Your Private Server</p>
+<p>From your local machine:</p>
+<p>`$ tar cvfz project.tgz project.git/`<br />
+`$ scp project.tgz user@hostname:project.tgz`<br />
+`$ ssh user@hostname`  </p>
+<p>From your server:</p>
+<p>`# adduser git`<br />
+`# mv project.tgz /home/git/`<br />
+`# cd /home/git/`<br />
+`# tar xvfz project.tgz`<br />
+`# rm project.tgz`  </p>
+<p>### Configure SSH+Git Permissions</p>
+<p>From your server:</p>
+<p>`# chmod g+rx /home/git`<br />
+`# usermod -a -G git user`<br />
+`# chown -R git:git project.git/`<br />
+`# cd project.git/`<br />
+`# git --bare init --shared=group`<br />
+`# chmod g+ws branches hooks info objects objects/* refs`<br />
+`# exit`</p>
+<p>### Clone a New Working Copy from Your Private Server</p>
+<p>From your local machine:</p>
+<p>`$ git clone ssh://user@host/home/git/project.git`</p>
+<p>### Update "Origin" of Existing Working Copies</p>
+<p>From your local machine:</p>
+<p>`$ git remote rm origin`<br />
+`$ git remote add origin ssh://user@host/home/git/project.git`</p>
+<p>### Acknowledgements</p>
+<p>[How to Publish a Git Repository](http://www.bluishcoder.co.nz/2007/09/how-to-publish-git-repository.html). Double, Chris. Bluish Coder. 22 Sep. 2007.</p>
+<p>[Git - Howto Setup Shared Repository with SSH Access](http://eagleas.livejournal.com/18907.html). Eagleas. Live Journal. 26 Jun. 2008.</p>
+<p>[Howto: Linux Add User to Group](http://www.cyberciti.biz/faq/howto-linux-add-user-to-group/). Gite, Vivek. nixCraft. 14 Mar. 2006.</p>
+<p>[Switch “Origin” of Your Git Repository](http://blog.aplikacja.info/2010/08/switch-origin-of-your-git-repository/). Cieslak, Dariusz. Aplikacja.info. 10 Aug. 2010.</p>

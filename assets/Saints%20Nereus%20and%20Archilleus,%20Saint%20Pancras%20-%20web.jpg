@@ -1,0 +1,2439 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		  <base href="http://stjohn-catholic.org/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="'st john the baptist', 'st john edmond', 'edmond catholic', 'catholic church', 'father ackerman', 'catholic school', 'st elizabeth ann seton catholic school', 'edmond catholic school'" />
+  <meta name="google-site-verification" content="n5CURI1JTIpq4WRMmPcvILmJR58j9n-lC-GWMoZDbTQ" />
+  <meta name="description" content="Official website of St. John the Baptism Catholic Church and St. Elizabeth Ann Seton Catholic School. Features include parish &amp; school news, Mass and Confessions schedule, bulletins, parish &amp; school calendar, podcasts, descriptions of all parish programs and much more!" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>St. John the Baptist Catholic Church</title>
+  <link href="/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="http://stjohn-catholic.org/component/search/?format=opensearch" rel="search" title="Search St. John the Baptist Catholic Church" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="/plugins/system/rokbox/assets/styles/rokbox.css" type="text/css" />
+  <link rel="stylesheet" href="/libraries/gantry/css/gantry.css" type="text/css" />
+  <link rel="stylesheet" href="/libraries/gantry/css/joomla.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/rt_ionosphere_responsive/css/joomla.css" type="text/css" />
+  <link rel="stylesheet" href="/libraries/gantry/css/grid-responsive.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/rt_ionosphere_responsive/css/background-light.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/rt_ionosphere_responsive/css/body-light.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/rt_ionosphere_responsive/css/accents.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/rt_ionosphere_responsive/css/responsive.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/rt_ionosphere_responsive/css/typography.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/rt_ionosphere_responsive/css/extensions.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/rt_ionosphere_responsive/css/demo-styles.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/rt_ionosphere_responsive/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/rt_ionosphere_responsive/css/fusionmenu.css" type="text/css" />
+  <link rel="stylesheet" href="/media/com_docman/bootstrap/css/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="/media/com_docman/bootstrap/css/bootstrap-module.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/rt_ionosphere_responsive/roksprocket/layouts/features/themes/slideshow/slideshow.css" type="text/css" />
+  <style type="text/css">
+.readon, #rt-top-surround, .menutop li.root:hover > .item .item-border, .menutop li.root.f-mainparent-itemfocus > .item .item-border, .menutop li.root.active > .item .item-border, .rt-splitmenu .menutop li:hover > .item .item-border, .rt-splitmenu .menutop li.active > .item .item-border, .component-content .rt-article-icons .icon, .component-content .rt-article-icons.no-icons ul li.edit-icon a, .totop-block #gantry-totop:hover, #rt-accessibility a, .box2 .rt-block, .component-content .rt-article-icons .print-icon a, .component-content .rt-article-icons .email-icon a, .component-content .rt-article-icons .edit-icon a, #rt-main-container .module-content ul.menu > li.active > a, #rt-main-container .module-content ul.menu > li:hover > a, .title2 .module-surround .module-border, .title4 .module-title, .layout-slideshow .sprocket-features-pagination li.active, .sprocket-headlines-navigation .arrow,.sprocket-lists ul li.active .sprocket-lists-title, .sprocket-lists .sprocket-lists-pagination ul li.active {background-color:#27244f;}
+a, body #rt-main .module-content .menu li li > a, body #rt-main .module-content ul.menu li li.active > .item span, body #rt-main .module-content ul.menu li.parent li .item:hover span, body #rt-main .module-content ul.menu li li .separator, .item-title, .box3 a:hover, #rt-top-surround .box7 a, .style-panel-toggle:hover, ul.autocompleter-choices span.autocompleter-queried, #rt-main-container .rt-splitmenu .rt-menubar li li > a {color:#27244f;}
+#rt-accessibility a, .rt-joomla .contact .inputbox:focus, #com-form-login .inputbox:focus, #josForm .inputbox:focus, .search_result .inputbox:focus, .inputbox:focus, textarea:focus, #form-login .inputbox:focus, #com-form-login .inputbox:focus, #josForm .inputbox:focus, .component-block .inputbox:focus, .component-block #form-login .inputbox:focus, .component-block #com-form-login .inputbox:focus, .component-block #josForm .inputbox:focus, .component-block .component-content .search_result .inputbox:focus, .component-block .component-content .contact .inputbox:focus, .component-block .component-content .user input#email:focus, .component-block .component-content .user input#name:focus, .component-block .component-content .user input#username:focus, .component-block .component-content .user input#password:focus, .component-block .component-content .user input#passwd:focus, .component-block .component-content .user input#password2:focus, .rt-joomla .contact input.required:focus, .rt-joomla .contact textarea.required:focus, .rt-joomla .user .inputbox:focus {border: 1px solid #27244f;}
+.menutop > .fusion-js-subs > .fusion-submenu-wrapper.level2 .rt-arrow-pointer {border-top-color:#D6D9DE;}
+.component-block .inputbox:focus, .component-block textarea:focus, .inputbox:focus, textarea:focus, .rt-joomla .contact input.required:focus, .rt-joomla .contact textarea.required:focus, .rt-joomla .user .inputbox:focus {box-shadow: inset 0 1px 3px rgba(39,36,79,0.6), 0 0 8px rgba(39,36,79,0.6);}
+body ul.circle-checkmark li:before, body ul.square-checkmark li:before, body ul.checkmark li:after, body ul.triangle-small li:after, body ul.triangle li:after, body ul.triangle-large li:after, body ul.circle-small li:after, body ul.circle li:after, body ul.circle-large li:after {border-color:#27244f;}
+.layout-slideshow .sprocket-features-pagination li.active:before {border-right-color:#27244f;}
+.layout-top .sprocket-tabs-nav li.active {border-bottom-color:#27244f;}
+.layout-bottom .sprocket-tabs-nav li.active {border-top-color:#27244f;}
+.layout-left .sprocket-tabs-nav li.active {border-right-color:#27244f;}
+.layout-right .sprocket-tabs-nav li.active {border-left-color:#27244f;}
+body, .box4 .rt-block, #rt-footer, #rt-copyright, .pattern-item, .component-block .box1 .module-surround {background-color:#D6D9DE;}
+.component-block a, #rt-content-bottom a, #rt-content-top a {color:#27244f;}
+.component-block .readon, #rt-content-bottom .readon, #rt-content-top .readon {background-color:#27244f;}
+#rt-main-container {background-color:#f2f3f5;}
+.title3 .module-title {background-color:#e4e6e9;}
+.sprocket-bottom-gradient {#f2f3f5}
+body #logo-inner {width:233px;height:46px;}
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/plugins/system/rokbox/assets/js/rokbox.js" type="text/javascript"></script>
+  <script src="/libraries/gantry/js/gantry-buildspans.js" type="text/javascript"></script>
+  <script src="/libraries/gantry/js/gantry-inputs.js" type="text/javascript"></script>
+  <script src="/libraries/gantry/js/browser-engines.js" type="text/javascript"></script>
+  <script src="/templates/rt_ionosphere_responsive/js/load-transition.js" type="text/javascript"></script>
+  <script src="/modules/mod_roknavmenu/themes/fusion/js/fusion.js" type="text/javascript"></script>
+  <script src="/modules/mod_sponsors/tmpl/banner.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/mootools-mobile.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/rokmediaqueries.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/roksprocket.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/assets/js/moofx.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/layouts/features/assets/js/features.js" type="text/javascript"></script>
+  <script src="/components/com_roksprocket/layouts/features/themes/slideshow/slideshow.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});if (typeof RokBoxSettings == 'undefined') RokBoxSettings = {pc: '100'}
+			window.addEvent('domready', function() {
+				var modules = ['rt-block'];
+				var header = ['h3','h2:not(.itemTitle)','h1'];
+				GantryBuildSpans(modules, header);
+			});
+		InputsExclusion.push('.content_vote','#rt-popup','#rt-popuplogin','#vmMainPage','#community-wrap')            window.addEvent('domready', function() {
+                new Fusion('ul.menutop', {
+                    pill: 0,
+                    effect: 'slide and fade',
+                    opacity:  1,
+                    hideDelay:  500,
+                    centered:  0,
+                    tweakInitial: {'x': -8, 'y': -10},
+                    tweakSubsequent: {'x':  -8, 'y':  -11},
+                    tweakSizes: {'width': 18, 'height': 20},
+                    menuFx: {duration:  300, transition: Fx.Transitions.Circ.easeOut},
+                    pillFx: {duration:  400, transition: Fx.Transitions.Back.easeOut}
+                });
+            });
+            
+
+			window.addEvent('domready', function(){
+				document.getElements('[data-rt-menu-mobile]').addEvent('change', function(){
+					window.location.href = this.value;
+				});
+			});if (typeof RokSprocket == 'undefined') RokSprocket = {};
+Object.merge(RokSprocket, {
+	SiteURL: 'http://stjohn-catholic.org/',
+	CurrentURL: 'http://stjohn-catholic.org/',
+	AjaxURL: 'http://stjohn-catholic.org/index.php?option=com_roksprocket&amp;task=ajax&amp;format=raw&amp;ItemId=101'
+});
+window.addEvent('domready', function(){
+		RokSprocket.instances.slideshow = new RokSprocket.Slideshow();
+});
+window.addEvent('domready', function(){
+	RokSprocket.instances.slideshow.attach(109, '{"animation":"crossfade","autoplay":"1","delay":"5"}');
+});
+
+  </script>
+    <link rel="shortcut icon" href="/content/images/favicon.ico" />
+    <link href="/content/style.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', '']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-44881418-19');
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+
+</script>
+
+
+<div class="custom"  >
+	<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c44b5e0f247ce9"></script>
+
+</div>
+
+</head>
+	<body  class="accent-overlay-dark body-overlay-light bg-overlay-light bg-pattern-textile headerwidth-full font-family-ionosphere font-size-is-default logo-text-1 logo-icon-1 menu-type-fusionmenu layout-mode-responsive inputstyling-enabled-1 typography-style-light col12 option-com-content menu-home homelayout">
+					<div id="rt-top-surround"><div id="rt-top-surround2">
+								<div id="rt-drawer">
+										<div class="rt-container">
+																	<div class="clear"></div>
+										</div>
+									</div>
+																<div id="rt-header">
+										<div class="rt-container">
+											<div class="rt-grid-6 rt-alpha">
+    		<div class="rt-block logo-block">
+                            <a href="/" id="rt-logo"><span id="logo-icon"></span><span id="logo-inner"></span></a>
+                    </div>
+	    
+</div>
+<div class="rt-grid-6 rt-omega">
+                    <div class="topmenu">
+                    <div class="rt-block">
+            	<div class="module-surround">
+										<div class="module-content">
+	                	
+<ul class="menu">
+<li class="item-238"><a href="/worship/liturgy/ministry-schedules-liturgy" ><span>Ministry Schedule</span></a></li><li class="item-240"><a href="http://stelizabethedmond.org/school" ><span>SEAS School</span></a></li><li class="item-417"><a href="/donate-now-parish" ><span>Donate</span></a></li></ul>						<div class="clear"></div>
+					</div>
+				</div>
+				            </div>
+                            </div>
+			
+</div>
+						<div class="clear"></div>
+										</div>
+									</div>
+							</div></div>
+						<div id="rt-navigation"><div id="rt-navigation2">
+								<div class="rt-container">
+									
+<div class="rt-grid-12 rt-alpha rt-omega">
+    	<div class="rt-block menu-block">
+		<div class="nopill">
+<div class="rt-menubar fusionmenu">
+    <ul class="menutop level1 " >
+                        <li class="item101 parent active root" >
+                        	                <a class="daddy item bullet active-to-top" href="/"  >
+                    <span>
+                                        Home                                                            <span class="daddyicon"></span>
+                                        </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level2 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level2" style="width:180px;">
+                                                                                                        <li class="item134" >
+                        	                <a class="orphan item bullet" href="/home/mass-times"  >
+                    <span>
+                                        Mass Times                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item120" >
+                        	                <a class="orphan item bullet" href="/home/bulletin"  >
+                    <span>
+                                        Bulletin                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item121" >
+                        	                <a class="orphan item bullet" href="/home/calendar"  >
+                    <span>
+                                        Calendar                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item247" >
+                        	                <a class="orphan item bullet" href="https://docs.google.com/a/solutiosoftware.com/forms/d/1kV8dFXy4yznJrRTODpdCXIGgawZyRYI1UoBPfxUbW08/viewform" target="_blank" >
+                    <span>
+                                        Registration                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item397" >
+                        	                <a class="orphan item bullet" href="/home/meeting-room-event-reservations"  >
+                    <span>
+                                        Meeting Room-Event Reservations                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                <li class="item112 parent root" >
+                        	                <a class="daddy item bullet" href="/about-us/about-us"  >
+                    <span>
+                                        About Us                                                            <span class="daddyicon"></span>
+                                        </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level2 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level2" style="width:180px;">
+                                                                                                        <li class="item241 parent" >
+                        	                <a class="daddy item bullet" href="/about-us/about-us"  >
+                    <span>
+                                        Welcome                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level3 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item117" >
+                        	                <a class="orphan item bullet" href="/about-us/about-us/our-history"  >
+                    <span>
+                                        Our History                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item343" >
+                        	                <a class="orphan item bullet" href="/about-us/about-us/newcomers"  >
+                    <span>
+                                        Newcomers to the Parish                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item355 parent" >
+                        	                <a class="daddy item bullet" href="/about-us/where-to-find-us/directions"  >
+                    <span>
+                                        Where to Find Us                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level3 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item114" >
+                        	                <a class="orphan item bullet" href="/about-us/where-to-find-us/directions"  >
+                    <span>
+                                        Directions                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item357" >
+                        	                <a class="orphan item bullet" href="/about-us/where-to-find-us/our-campus"  >
+                    <span>
+                                        Our Campus                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item356 parent" >
+                        	                <a class="daddy item bullet" href="/about-us/how-we-are-organized/pillars-of-faith"  >
+                    <span>
+                                        How We are Organized                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level3 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item118" >
+                        	                <a class="orphan item bullet" href="/about-us/how-we-are-organized/pillars-of-faith"  >
+                    <span>
+                                        Pillars of Faith                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item135" >
+                        	                <a class="orphan item bullet" href="/about-us/how-we-are-organized/parish-council"  >
+                    <span>
+                                        Parish Council                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item115" >
+                        	                <a class="orphan item bullet" href="/about-us/how-we-are-organized/staff"  >
+                    <span>
+                                        Staff                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item113" >
+                        	                <a class="orphan item bullet" href="/about-us/contact-us"  >
+                    <span>
+                                        Contact Us                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item133" >
+                        	                <a class="orphan item bullet" href="/about-us/external-resources"  >
+                    <span>
+                                        External Resources                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item248" >
+                        	                <a class="orphan item bullet" href="/about-us/podcast-archive"  >
+                    <span>
+                                        Podcast Archive                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                <li class="item122 parent root" >
+                        	                <a class="daddy item bullet" href="/worship/worship-pillar"  >
+                    <span>
+                                        Worship                                                            <span class="daddyicon"></span>
+                                        </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level2 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level2" style="width:180px;">
+                                                                                                        <li class="item242" >
+                        	                <a class="orphan item bullet" href="/worship/worship-pillar"  >
+                    <span>
+                                        Worship Pillar                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item194 parent" >
+                        	                <a class="daddy item bullet" href="/worship/liturgy"  >
+                    <span>
+                                        Liturgy                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level3 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item263" >
+                        	                <a class="orphan item bullet" href="/worship/liturgy/altar-servers"  >
+                    <span>
+                                        Altar Servers                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item264" >
+                        	                <a class="orphan item bullet" href="/worship/liturgy/emhc"  >
+                    <span>
+                                        Extraordinary Ministers of Holy Communion                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item267" >
+                        	                <a class="orphan item bullet" href="/worship/liturgy/greeters"  >
+                    <span>
+                                        Greeters                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item265" >
+                        	                <a class="orphan item bullet" href="/worship/liturgy/lectors-commentators"  >
+                    <span>
+                                        Lectors/Commentators                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item237" >
+                        	                <a class="orphan item bullet" href="/worship/liturgy/music"  >
+                    <span>
+                                        Music                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item260" >
+                        	                <a class="orphan item bullet" href="/worship/liturgy/sacristans"  >
+                    <span>
+                                        Sacristans                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item269" >
+                        	                <a class="orphan item bullet" href="/worship/liturgy/we-create-the-environment"  >
+                    <span>
+                                        Sanctuary Art &amp; Environment                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item266" >
+                        	                <a class="orphan item bullet" href="/worship/liturgy/ushers"  >
+                    <span>
+                                        Ushers                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item262" >
+                        	                <a class="orphan item bullet" href="/worship/liturgy/ministry-schedules-liturgy"  >
+                    <span>
+                                        All Ministry Schedules                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item196 parent" >
+                        	                <a class="daddy item bullet" href="/worship/prayer"  >
+                    <span>
+                                        Prayer                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level3 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item376" >
+                        	                <a class="orphan item bullet" href="/worship/prayer/prayers-catholic-prayers"  >
+                    <span>
+                                        Catholic Prayers                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item378" >
+                        	                <a class="orphan item bullet" href="/worship/prayer/prayers-contemplation"  >
+                    <span>
+                                        Scriptural Contemplation                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item195 parent" >
+                        	                <a class="daddy item bullet" href="/worship/devotion"  >
+                    <span>
+                                        Devotion                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level3 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item190" >
+                        	                <a class="orphan item bullet" href="/worship/devotion/adoration"  >
+                    <span>
+                                        Eucharistic Adoration                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item270" >
+                        	                <a class="orphan item bullet" href="/worship/devotion/novena"  >
+                    <span>
+                                        Novena                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item271" >
+                        	                <a class="orphan item bullet" href="/worship/devotion/rosary"  >
+                    <span>
+                                        The Blessed Mother                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item272" >
+                        	                <a class="orphan item bullet" href="/worship/devotion/stations-of-the-cross"  >
+                    <span>
+                                        The Passion of Christ                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item273" >
+                        	                <a class="orphan item bullet" href="/worship/devotion/divine-mercy"  >
+                    <span>
+                                        Divine Mercy                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item375" >
+                        	                <a class="orphan item bullet" href="/worship/devotion/liturgy-of-the-hours"  >
+                    <span>
+                                        Liturgy of Hours                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item197 parent" >
+                        	                <a class="daddy item bullet" href="/worship/sacraments"  >
+                    <span>
+                                        Sacraments                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level3 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item282" >
+                        	                <a class="orphan item bullet" href="/worship/sacraments/baptism"  >
+                    <span>
+                                        Baptism                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item283" >
+                        	                <a class="orphan item bullet" href="/worship/sacraments/reconciliation"  >
+                    <span>
+                                        Reconciliation                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item284" >
+                        	                <a class="orphan item bullet" href="/worship/sacraments/eucharist"  >
+                    <span>
+                                        Eucharist                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item285" >
+                        	                <a class="orphan item bullet" href="/worship/sacraments/confirmation"  >
+                    <span>
+                                        Confirmation                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item286" >
+                        	                <a class="orphan item bullet" href="/worship/sacraments/matrimony"  >
+                    <span>
+                                        Matrimony                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item287" >
+                        	                <a class="orphan item bullet" href="/worship/sacraments/holy-orders"  >
+                    <span>
+                                        Holy Orders                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item288" >
+                        	                <a class="orphan item bullet" href="/worship/sacraments/anointing-of-the-sick"  >
+                    <span>
+                                        Anointing of the Sick                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item422" >
+                        	                <a class="orphan item bullet" href="/worship/intentions"  >
+                    <span>
+                                        Intentions                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                <li class="item123 parent root" >
+                        	                <a class="daddy item bullet" href="/formation/formation-pillar"  >
+                    <span>
+                                        Formation                                                            <span class="daddyicon"></span>
+                                        </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level2 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level2" style="width:180px;">
+                                                                                                        <li class="item243" >
+                        	                <a class="orphan item bullet" href="/formation/formation-pillar"  >
+                    <span>
+                                        Formation Pillar                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item142 parent" >
+                        	                <a class="daddy item bullet" href="/formation/cdc-home"  >
+                    <span>
+                                        Child Development Center                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level3 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item140" >
+                        	                <a class="orphan item bullet" href="/formation/cdc-home/cardinals-club"  >
+                    <span>
+                                        Cardinal&#039;s Club                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item138" >
+                        	                <a class="orphan item bullet" href="/formation/cdc-home/the-nest"  >
+                    <span>
+                                        The Nest                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item139" >
+                        	                <a class="orphan item bullet" href="/formation/cdc-home/summer-camp"  >
+                    <span>
+                                        Summer Camp                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item141" >
+                        	                <a class="orphan item bullet" href="/formation/cdc-home/parent-resources"  >
+                    <span>
+                                        Parent Resources                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item144 parent" >
+                        	                <a class="daddy item bullet" href="/formation/elementary-re-pre-k-to-5th"  >
+                    <span>
+                                        Elementary RE Pre-K to 5th                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level3 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item145" >
+                        	                <a class="orphan item bullet" href="/formation/elementary-re-pre-k-to-5th/parental-sacrament-preparation"  >
+                    <span>
+                                        Parental Sacrament Preparation                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item146" >
+                        	                <a class="orphan item bullet" href="/formation/elementary-re-pre-k-to-5th/first-reconciliation"  >
+                    <span>
+                                        First Reconciliation                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item147" >
+                        	                <a class="orphan item bullet" href="/formation/elementary-re-pre-k-to-5th/first-eucharist"  >
+                    <span>
+                                        First Eucharist                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item156 parent" >
+                        	                <a class="daddy item bullet" href="/formation/total-youth-ministry"  >
+                    <span>
+                                        Total Youth Ministry                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level3 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item210" >
+                        	                <a class="orphan item bullet" href="/formation/total-youth-ministry/the-edge"  >
+                    <span>
+                                        The EDGE                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item160" >
+                        	                <a class="orphan item bullet" href="/formation/total-youth-ministry/summer-sonshine"  >
+                    <span>
+                                        Summer Sonshine                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item174" >
+                        	                <a class="orphan item bullet" href="/formation/total-youth-ministry/outreach"  >
+                    <span>
+                                        Life Teen                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item159" >
+                        	                <a class="orphan item bullet" href="/formation/total-youth-ministry/confirmation"  >
+                    <span>
+                                        Confirmation                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item161" >
+                        	                <a class="orphan item bullet" href="/formation/total-youth-ministry/youth-fest"  >
+                    <span>
+                                        Youth Fest                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item162" >
+                        	                <a class="orphan item bullet" href="/formation/total-youth-ministry/peru-youth-mission"  >
+                    <span>
+                                        Peru Youth Mission                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item391" >
+                        	                <a class="orphan item bullet" href="/formation/total-youth-ministry/challenge-girls"  >
+                    <span>
+                                        Challenge Girls                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item151" >
+                        	                <a class="orphan item bullet" href="/formation/catholic-campus-ministry"  >
+                    <span>
+                                        Catholic Campus Ministry                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item150 parent" >
+                        	                <a class="daddy item bullet" href="/formation/adult-spiritual-formation"  >
+                    <span>
+                                        Adult Spiritual Formation                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level3 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item380" >
+                        	                <a class="orphan item bullet" href="/formation/adult-spiritual-formation/adult-formation-sunday-school"  >
+                    <span>
+                                        Adult Sunday School                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item207" >
+                        	                <a class="orphan item bullet" href="/formation/adult-spiritual-formation/lunch-and-learn"  >
+                    <span>
+                                        Lunch and Learn                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item208" >
+                        	                <a class="orphan item bullet" href="/formation/adult-spiritual-formation/tap-into-faith"  >
+                    <span>
+                                        TAP into Faith                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item206" >
+                        	                <a class="orphan item bullet" href="/formation/adult-spiritual-formation/women-s-bible-study"  >
+                    <span>
+                                        Women&#039;s Bible Study                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item296" >
+                        	                <a class="orphan item bullet" href="/formation/adult-spiritual-formation/cursillo"  >
+                    <span>
+                                        Cursillo                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item278" >
+                        	                <a class="orphan item bullet" href="/formation/adult-spiritual-formation/counseling-ridl"  >
+                    <span>
+                                        Retreat in Daily Life                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item215 parent" >
+                        	                <a class="daddy item bullet" href="/formation/initiation/rcia"  >
+                    <span>
+                                        Initiation                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level3 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item153" >
+                        	                <a class="orphan item bullet" href="/formation/initiation/rcia"  >
+                    <span>
+                                        Rite of Christian Initiation of Adults                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item148" >
+                        	                <a class="orphan item bullet" href="/formation/initiation/rcic"  >
+                    <span>
+                                        RIte of Christian Initiation for Children                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                <li class="item125 parent root" >
+                        	                <a class="daddy item bullet" href="/outreach/outreach-pillar"  >
+                    <span>
+                                        Outreach                                                            <span class="daddyicon"></span>
+                                        </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level2 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level2" style="width:180px;">
+                                                                                                        <li class="item244" >
+                        	                <a class="orphan item bullet" href="/outreach/outreach-pillar"  >
+                    <span>
+                                        Outreach Pillar                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item166 parent" >
+                        	                <a class="daddy item bullet" href="/outreach/pastoral-care/communion-to-the-homebound"  >
+                    <span>
+                                        Pastoral Care                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level3 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item178" >
+                        	                <a class="orphan item bullet" href="/outreach/pastoral-care/communion-to-the-homebound"  >
+                    <span>
+                                        Communion to the Homebound                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item177" >
+                        	                <a class="orphan item bullet" href="/outreach/pastoral-care/funeral-dinners"  >
+                    <span>
+                                        Funeral Dinners                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item219 parent" >
+                        	                <a class="daddy item bullet" href="/outreach/pastoral-care/counseling-center"  >
+                    <span>
+                                        Counseling Center                                                             </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level4 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level4" style="width:180px;">
+                                                                                                        <li class="item410" >
+                        	                <a class="orphan item bullet" href="/outreach/pastoral-care/counseling-center/counseling-center-coda"  >
+                    <span>
+                                        Co-Dependents Anonymous (CoDA)                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item167" >
+                        	                <a class="orphan item bullet" href="/outreach/pastoral-care/counseling-center/counseling-center"  >
+                    <span>
+                                        Crisis Counseling                                                             </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item276" >
+                        	                <a class="orphan item bullet" href="/outreach/pastoral-care/counseling-center/counseling-ongoing"  >
+                    <span>
+                                        Ongoing Counseling                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item277" >
+                        	                <a class="orphan item bullet" href="/outreach/pastoral-care/counseling-center/counseling-grief-support"  >
+                    <span>
+                                        Support Groups                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item279" >
+                        	                <a class="orphan item bullet" href="/outreach/pastoral-care/counseling-center/counseling-sd"  >
+                    <span>
+                                        Spiritual Direction                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item171 parent" >
+                        	                <a class="daddy item bullet" href="/outreach/pastoral-care/pnm"  >
+                    <span>
+                                        Parish Nursing Ministry                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level4 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level4" style="width:180px;">
+                                                                                                        <li class="item305" >
+                        	                <a class="orphan item bullet" href="/outreach/pastoral-care/pnm/parish-nursing-health-advocate"  >
+                    <span>
+                                        Your Health Advocate                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item306" >
+                        	                <a class="orphan item bullet" href="/outreach/pastoral-care/pnm/parish-nursing-health-education"  >
+                    <span>
+                                        Health Education                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item307" >
+                        	                <a class="orphan item bullet" href="/outreach/pastoral-care/pnm/parish-nursing-health-referrals"  >
+                    <span>
+                                        Helping Hands - Referrals                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item308" >
+                        	                <a class="orphan item bullet" href="/outreach/pastoral-care/pnm/parish-nursing-health-during-an-illness"  >
+                    <span>
+                                        In Times of Sickness                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item309" >
+                        	                <a class="orphan item bullet" href="/outreach/pastoral-care/pnm/parish-nursing-health-support-groups"  >
+                    <span>
+                                        Support Groups                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item187" >
+                        	                <a class="orphan item bullet" href="/outreach/pastoral-care/prison-ministry"  >
+                    <span>
+                                        Prison Ministries                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item116" >
+                        	                <a class="orphan item bullet" href="/outreach/pastoral-care/project-gabriel-ministry"  >
+                    <span>
+                                        Project Gabriel Ministry                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item310" >
+                        	                <a class="orphan item bullet" href="/outreach/pastoral-care/outreach-handyman"  >
+                    <span>
+                                        St. Joseph&#039;s Corp Handyman Service                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item258" >
+                        	                <a class="orphan item bullet" href="/outreach/pastoral-care/timeout-ministries"  >
+                    <span>
+                                        TimeOut                                                             </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item216 parent" >
+                        	                <a class="daddy item bullet" href="/outreach/evangelization-ministry"  >
+                    <span>
+                                        Evangelization Ministry                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level3 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item312" >
+                        	                <a class="orphan item bullet" href="/outreach/evangelization-ministry/catholics-returning-home"  >
+                    <span>
+                                        Catholics Returning Home                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item313" >
+                        	                <a class="orphan item bullet" href="/outreach/evangelization-ministry/justfaith"  >
+                    <span>
+                                        JustFaith                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item311" >
+                        	                <a class="orphan item bullet" href="/outreach/evangelization-ministry/evangelization-lenten-mission"  >
+                    <span>
+                                        Parish Lenten Mission                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item217 parent" >
+                        	                <a class="daddy item bullet" href="/outreach/social-ministries"  >
+                    <span>
+                                        Social Ministries                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level3 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item253" >
+                        	                <a class="orphan item bullet" href="/outreach/social-ministries/cooks-night-out"  >
+                    <span>
+                                        Cooks Night Out                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item255" >
+                        	                <a class="orphan item bullet" href="/outreach/social-ministries/giving-tree-ministry"  >
+                    <span>
+                                        Giving Tree Ministry                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item252" >
+                        	                <a class="orphan item bullet" href="/outreach/social-ministries/ida-freeman-school-ministry"  >
+                    <span>
+                                        Ida Freeman School Ministry                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item257" >
+                        	                <a class="orphan item bullet" href="/outreach/social-ministries/outreach-fund"  >
+                    <span>
+                                        Outreach Fund                                                             </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item168" >
+                        	                <a class="orphan item bullet" href="/outreach/social-ministries/samaritan-house"  >
+                    <span>
+                                        Samaritan House                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item254" >
+                        	                <a class="orphan item bullet" href="/outreach/social-ministries/thanksgiving-dinner"  >
+                    <span>
+                                        Thanksgiving Dinner                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item256" >
+                        	                <a class="orphan item bullet" href="/outreach/social-ministries/zachary-house-ministry"  >
+                    <span>
+                                        Zachary House Ministry                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item198 parent" >
+                        	                <a class="daddy item bullet" href="/outreach/peru-partnership"  >
+                    <span>
+                                        Peru Partnership                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level3 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item186" >
+                        	                <a class="orphan item bullet" href="/outreach/peru-partnership/family-to-family"  >
+                    <span>
+                                        Family to Family                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item280" >
+                        	                <a class="orphan item bullet" href="/outreach/peru-partnership/peru-mission-missionary-teams"  >
+                    <span>
+                                        Missionary Teams                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item175" >
+                        	                <a class="orphan item bullet" href="/outreach/peru-partnership/container-warehouse"  >
+                    <span>
+                                        Container/Warehouse                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                <li class="item126 parent root" >
+                        	                <a class="daddy item bullet" href="/stewardship-community-life/stewardship-community-life-pillar"  >
+                    <span>
+                                        Stewardship &amp; Community Life                                                            <span class="daddyicon"></span>
+                                        </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level2 " style="width:260px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level2" style="width:260px;">
+                                                                                                        <li class="item303" >
+                        	                <a class="orphan item bullet" href="/stewardship-community-life/stewardship-community-life-pillar"  >
+                    <span>
+                                        Stewardship &amp; Community Life Pillar                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item245 parent" >
+                        	                <a class="daddy item bullet" href="/stewardship-community-life/stewardship"  >
+                    <span>
+                                        Stewardship                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level3 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item430" >
+                        	                <a class="orphan item bullet" href="/stewardship-community-life/stewardship/stewardship-opportunities"  >
+                    <span>
+                                        Stewardship Opportunities                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item246 parent" >
+                        	                <a class="daddy item bullet" href="/stewardship-community-life/community-life/cub-scouts"  >
+                    <span>
+                                        Community Life                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level3 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item225" >
+                        	                <a class="orphan item bullet" href="/stewardship-community-life/community-life/cub-scouts"  >
+                    <span>
+                                        Cub Scouts                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item226" >
+                        	                <a class="orphan item bullet" href="/stewardship-community-life/community-life/boy-scouts"  >
+                    <span>
+                                        Boy Scouts                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item227" >
+                        	                <a class="orphan item bullet" href="/stewardship-community-life/community-life/venture-crew-bsa"  >
+                    <span>
+                                        Venture Crew, BSA                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item228" >
+                        	                <a class="orphan item bullet" href="/stewardship-community-life/community-life/girl-scouts-brownies"  >
+                    <span>
+                                        Girl Scouts - Brownies                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item229" >
+                        	                <a class="orphan item bullet" href="/stewardship-community-life/community-life/catholic-young-adults"  >
+                    <span>
+                                        Catholic Young Adults                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item230" >
+                        	                <a class="orphan item bullet" href="/stewardship-community-life/community-life/classic-adult-singles"  >
+                    <span>
+                                        Classic Adult Singles                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item377" >
+                        	                <a class="orphan item bullet" href="/stewardship-community-life/community-life/hospitality"  >
+                    <span>
+                                        Hospitality                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item231" >
+                        	                <a class="orphan item bullet" href="/stewardship-community-life/community-life/keenagers"  >
+                    <span>
+                                        Keenagers                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item232" >
+                        	                <a class="orphan item bullet" href="/stewardship-community-life/community-life/marriage-and-family"  >
+                    <span>
+                                        Marriage and Family                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item233" >
+                        	                <a class="orphan item bullet" href="/stewardship-community-life/community-life/knights-of-columbus"  >
+                    <span>
+                                        Knights of Columbus                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item234" >
+                        	                <a class="orphan item bullet" href="/stewardship-community-life/community-life/the-men-of-st-johns"  >
+                    <span>
+                                        The Men of St. John&#039;s                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item235" >
+                        	                <a class="orphan item bullet" href="/stewardship-community-life/community-life/women-of-st-john-the-baptist"  >
+                    <span>
+                                        Women of St. John the Baptist                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                <li class="item127 parent root" >
+                        	                <a class="daddy item bullet" href="/administration/administration"  >
+                    <span>
+                                        Administration                                                            <span class="daddyicon"></span>
+                                        </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level2 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level2" style="width:180px;">
+                                                                                                        <li class="item297" >
+                        	                <a class="orphan item bullet" href="/administration/administration"  >
+                    <span>
+                                        Administration Pillar                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item218" >
+                        	                <a class="orphan item bullet" href="/administration/finance-board"  >
+                    <span>
+                                        Finance Board                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item193" >
+                        	                <a class="orphan item bullet" href="/administration/property-board"  >
+                    <span>
+                                        Property Board                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item132" >
+                        	                <a class="orphan item bullet" href="/administration/communications-committee"  >
+                    <span>
+                                        Communications Committee                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item189" >
+                        	                <a class="orphan item bullet" href="/administration/nursery"  >
+                    <span>
+                                        Nursery                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item188" >
+                        	                <a class="orphan item bullet" href="/administration/safe-environment"  >
+                    <span>
+                                        Safe Environment                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item411" >
+                        	                <a class="orphan item bullet" href="/administration/parish-census"  >
+                    <span>
+                                        Parish Census                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item421" >
+                        	                <a class="orphan item bullet" href="/administration/ministry-guidelines"  >
+                    <span>
+                                        Ministry Guidelines                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                <li class="item128 parent root" >
+                        	                <a class="daddy item bullet" href="/sponsors-list/sponsors-list"  >
+                    <span>
+                                        Sponsors                                                            <span class="daddyicon"></span>
+                                        </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level2 " style="width:180px;">
+                        <div class="rt-arrow-pointer"></div>
+                        
+                        <ul class="level2" style="width:180px;">
+                                                                                                        <li class="item129" >
+                        	                <a class="orphan item bullet" href="/sponsors-list/sponsors-list"  >
+                    <span>
+                                        View Directory                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item130" >
+                        	                <a class="orphan item bullet" href="/sponsors-list/sponsor-this-site"  >
+                    <span>
+                                        Sponsor This Site                                                            </span>
+                    <span class="item-border"></span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                    </ul>
+</div>
+<div class="clear"></div>
+</div>		<div class="clear"></div>
+	</div>
+	<div class="rt-menu-mobile">
+	<select data-rt-menu-mobile>
+									<option value="/" selected="selected"> Home</option>
+
+								<option value="/home/mass-times">&mdash; Mass Times</option>
+
+												<option value="/home/bulletin">&mdash; Bulletin</option>
+
+												<option value="/home/calendar">&mdash; Calendar</option>
+
+												<option value="https://docs.google.com/a/solutiosoftware.com/forms/d/1kV8dFXy4yznJrRTODpdCXIGgawZyRYI1UoBPfxUbW08/viewform">&mdash; Registration</option>
+
+												<option value="/home/meeting-room-event-reservations">&mdash; Meeting Room-Event Reservations</option>
+
+																				<option value="/about-us/about-us"> About Us</option>
+
+								<option value="/about-us/about-us">&mdash; Welcome</option>
+
+								<option value="/about-us/about-us/our-history">&mdash;&mdash; Our History</option>
+
+												<option value="/about-us/about-us/newcomers">&mdash;&mdash; Newcomers to the Parish</option>
+
+																<option value="/about-us/where-to-find-us/directions">&mdash; Where to Find Us</option>
+
+								<option value="/about-us/where-to-find-us/directions">&mdash;&mdash; Directions</option>
+
+												<option value="/about-us/where-to-find-us/our-campus">&mdash;&mdash; Our Campus</option>
+
+																<option value="/about-us/how-we-are-organized/pillars-of-faith">&mdash; How We are Organized</option>
+
+								<option value="/about-us/how-we-are-organized/pillars-of-faith">&mdash;&mdash; Pillars of Faith</option>
+
+												<option value="/about-us/how-we-are-organized/parish-council">&mdash;&mdash; Parish Council</option>
+
+												<option value="/about-us/how-we-are-organized/staff">&mdash;&mdash; Staff</option>
+
+																<option value="/about-us/contact-us">&mdash; Contact Us</option>
+
+												<option value="/about-us/external-resources">&mdash; External Resources</option>
+
+												<option value="/about-us/podcast-archive">&mdash; Podcast Archive</option>
+
+																				<option value="/worship/worship-pillar"> Worship</option>
+
+								<option value="/worship/worship-pillar">&mdash; Worship Pillar</option>
+
+												<option value="/worship/liturgy">&mdash; Liturgy</option>
+
+								<option value="/worship/liturgy/altar-servers">&mdash;&mdash; Altar Servers</option>
+
+												<option value="/worship/liturgy/emhc">&mdash;&mdash; Extraordinary Ministers of Holy Communion</option>
+
+												<option value="/worship/liturgy/greeters">&mdash;&mdash; Greeters</option>
+
+												<option value="/worship/liturgy/lectors-commentators">&mdash;&mdash; Lectors/Commentators</option>
+
+												<option value="/worship/liturgy/music">&mdash;&mdash; Music</option>
+
+												<option value="/worship/liturgy/sacristans">&mdash;&mdash; Sacristans</option>
+
+												<option value="/worship/liturgy/we-create-the-environment">&mdash;&mdash; Sanctuary Art &amp; Environment</option>
+
+												<option value="/worship/liturgy/ushers">&mdash;&mdash; Ushers</option>
+
+												<option value="/worship/liturgy/ministry-schedules-liturgy">&mdash;&mdash; All Ministry Schedules</option>
+
+																<option value="/worship/prayer">&mdash; Prayer</option>
+
+								<option value="/worship/prayer/prayers-catholic-prayers">&mdash;&mdash; Catholic Prayers</option>
+
+												<option value="/worship/prayer/prayers-contemplation">&mdash;&mdash; Scriptural Contemplation</option>
+
+																<option value="/worship/devotion">&mdash; Devotion</option>
+
+								<option value="/worship/devotion/adoration">&mdash;&mdash; Eucharistic Adoration</option>
+
+												<option value="/worship/devotion/novena">&mdash;&mdash; Novena</option>
+
+												<option value="/worship/devotion/rosary">&mdash;&mdash; The Blessed Mother</option>
+
+												<option value="/worship/devotion/stations-of-the-cross">&mdash;&mdash; The Passion of Christ</option>
+
+												<option value="/worship/devotion/divine-mercy">&mdash;&mdash; Divine Mercy</option>
+
+												<option value="/worship/devotion/liturgy-of-the-hours">&mdash;&mdash; Liturgy of Hours</option>
+
+																<option value="/worship/sacraments">&mdash; Sacraments</option>
+
+								<option value="/worship/sacraments/baptism">&mdash;&mdash; Baptism</option>
+
+												<option value="/worship/sacraments/reconciliation">&mdash;&mdash; Reconciliation</option>
+
+												<option value="/worship/sacraments/eucharist">&mdash;&mdash; Eucharist</option>
+
+												<option value="/worship/sacraments/confirmation">&mdash;&mdash; Confirmation</option>
+
+												<option value="/worship/sacraments/matrimony">&mdash;&mdash; Matrimony</option>
+
+												<option value="/worship/sacraments/holy-orders">&mdash;&mdash; Holy Orders</option>
+
+												<option value="/worship/sacraments/anointing-of-the-sick">&mdash;&mdash; Anointing of the Sick</option>
+
+																<option value="/worship/intentions">&mdash; Intentions</option>
+
+																				<option value="/formation/formation-pillar"> Formation</option>
+
+								<option value="/formation/formation-pillar">&mdash; Formation Pillar</option>
+
+												<option value="/formation/cdc-home">&mdash; Child Development Center</option>
+
+								<option value="/formation/cdc-home/cardinals-club">&mdash;&mdash; Cardinal&#039;s Club</option>
+
+												<option value="/formation/cdc-home/the-nest">&mdash;&mdash; The Nest</option>
+
+												<option value="/formation/cdc-home/summer-camp">&mdash;&mdash; Summer Camp</option>
+
+												<option value="/formation/cdc-home/parent-resources">&mdash;&mdash; Parent Resources</option>
+
+																<option value="/formation/elementary-re-pre-k-to-5th">&mdash; Elementary RE Pre-K to 5th</option>
+
+								<option value="/formation/elementary-re-pre-k-to-5th/parental-sacrament-preparation">&mdash;&mdash; Parental Sacrament Preparation</option>
+
+												<option value="/formation/elementary-re-pre-k-to-5th/first-reconciliation">&mdash;&mdash; First Reconciliation</option>
+
+												<option value="/formation/elementary-re-pre-k-to-5th/first-eucharist">&mdash;&mdash; First Eucharist</option>
+
+																<option value="/formation/total-youth-ministry">&mdash; Total Youth Ministry</option>
+
+								<option value="/formation/total-youth-ministry/the-edge">&mdash;&mdash; The EDGE</option>
+
+												<option value="/formation/total-youth-ministry/summer-sonshine">&mdash;&mdash; Summer Sonshine</option>
+
+												<option value="/formation/total-youth-ministry/outreach">&mdash;&mdash; Life Teen</option>
+
+												<option value="/formation/total-youth-ministry/confirmation">&mdash;&mdash; Confirmation</option>
+
+												<option value="/formation/total-youth-ministry/youth-fest">&mdash;&mdash; Youth Fest</option>
+
+												<option value="/formation/total-youth-ministry/peru-youth-mission">&mdash;&mdash; Peru Youth Mission</option>
+
+												<option value="/formation/total-youth-ministry/challenge-girls">&mdash;&mdash; Challenge Girls</option>
+
+																<option value="/formation/catholic-campus-ministry">&mdash; Catholic Campus Ministry</option>
+
+												<option value="/formation/adult-spiritual-formation">&mdash; Adult Spiritual Formation</option>
+
+								<option value="/formation/adult-spiritual-formation/adult-formation-sunday-school">&mdash;&mdash; Adult Sunday School</option>
+
+												<option value="/formation/adult-spiritual-formation/lunch-and-learn">&mdash;&mdash; Lunch and Learn</option>
+
+												<option value="/formation/adult-spiritual-formation/tap-into-faith">&mdash;&mdash; TAP into Faith</option>
+
+												<option value="/formation/adult-spiritual-formation/women-s-bible-study">&mdash;&mdash; Women&#039;s Bible Study</option>
+
+												<option value="/formation/adult-spiritual-formation/cursillo">&mdash;&mdash; Cursillo</option>
+
+												<option value="/formation/adult-spiritual-formation/counseling-ridl">&mdash;&mdash; Retreat in Daily Life</option>
+
+																<option value="/formation/initiation/rcia">&mdash; Initiation</option>
+
+								<option value="/formation/initiation/rcia">&mdash;&mdash; Rite of Christian Initiation of Adults</option>
+
+												<option value="/formation/initiation/rcic">&mdash;&mdash; RIte of Christian Initiation for Children</option>
+
+																								<option value="/outreach/outreach-pillar"> Outreach</option>
+
+								<option value="/outreach/outreach-pillar">&mdash; Outreach Pillar</option>
+
+												<option value="/outreach/pastoral-care/communion-to-the-homebound">&mdash; Pastoral Care</option>
+
+								<option value="/outreach/pastoral-care/communion-to-the-homebound">&mdash;&mdash; Communion to the Homebound</option>
+
+												<option value="/outreach/pastoral-care/funeral-dinners">&mdash;&mdash; Funeral Dinners</option>
+
+												<option value="/outreach/pastoral-care/counseling-center">&mdash;&mdash; Counseling Center </option>
+
+								<option value="/outreach/pastoral-care/counseling-center/counseling-center-coda">&mdash;&mdash;&mdash; Co-Dependents Anonymous (CoDA)</option>
+
+												<option value="/outreach/pastoral-care/counseling-center/counseling-center">&mdash;&mdash;&mdash; Crisis Counseling </option>
+
+												<option value="/outreach/pastoral-care/counseling-center/counseling-ongoing">&mdash;&mdash;&mdash; Ongoing Counseling</option>
+
+												<option value="/outreach/pastoral-care/counseling-center/counseling-grief-support">&mdash;&mdash;&mdash; Support Groups</option>
+
+												<option value="/outreach/pastoral-care/counseling-center/counseling-sd">&mdash;&mdash;&mdash; Spiritual Direction</option>
+
+																<option value="/outreach/pastoral-care/pnm">&mdash;&mdash; Parish Nursing Ministry</option>
+
+								<option value="/outreach/pastoral-care/pnm/parish-nursing-health-advocate">&mdash;&mdash;&mdash; Your Health Advocate</option>
+
+												<option value="/outreach/pastoral-care/pnm/parish-nursing-health-education">&mdash;&mdash;&mdash; Health Education</option>
+
+												<option value="/outreach/pastoral-care/pnm/parish-nursing-health-referrals">&mdash;&mdash;&mdash; Helping Hands - Referrals</option>
+
+												<option value="/outreach/pastoral-care/pnm/parish-nursing-health-during-an-illness">&mdash;&mdash;&mdash; In Times of Sickness</option>
+
+												<option value="/outreach/pastoral-care/pnm/parish-nursing-health-support-groups">&mdash;&mdash;&mdash; Support Groups</option>
+
+																<option value="/outreach/pastoral-care/prison-ministry">&mdash;&mdash; Prison Ministries</option>
+
+												<option value="/outreach/pastoral-care/project-gabriel-ministry">&mdash;&mdash; Project Gabriel Ministry</option>
+
+												<option value="/outreach/pastoral-care/outreach-handyman">&mdash;&mdash; St. Joseph&#039;s Corp Handyman Service</option>
+
+												<option value="/outreach/pastoral-care/timeout-ministries">&mdash;&mdash; TimeOut </option>
+
+																<option value="/outreach/evangelization-ministry">&mdash; Evangelization Ministry</option>
+
+								<option value="/outreach/evangelization-ministry/catholics-returning-home">&mdash;&mdash; Catholics Returning Home</option>
+
+												<option value="/outreach/evangelization-ministry/justfaith">&mdash;&mdash; JustFaith</option>
+
+												<option value="/outreach/evangelization-ministry/evangelization-lenten-mission">&mdash;&mdash; Parish Lenten Mission</option>
+
+																<option value="/outreach/social-ministries">&mdash; Social Ministries</option>
+
+								<option value="/outreach/social-ministries/cooks-night-out">&mdash;&mdash; Cooks Night Out</option>
+
+												<option value="/outreach/social-ministries/giving-tree-ministry">&mdash;&mdash; Giving Tree Ministry</option>
+
+												<option value="/outreach/social-ministries/ida-freeman-school-ministry">&mdash;&mdash; Ida Freeman School Ministry</option>
+
+												<option value="/outreach/social-ministries/outreach-fund">&mdash;&mdash; Outreach Fund </option>
+
+												<option value="/outreach/social-ministries/samaritan-house">&mdash;&mdash; Samaritan House</option>
+
+												<option value="/outreach/social-ministries/thanksgiving-dinner">&mdash;&mdash; Thanksgiving Dinner</option>
+
+												<option value="/outreach/social-ministries/zachary-house-ministry">&mdash;&mdash; Zachary House Ministry</option>
+
+																<option value="/outreach/peru-partnership">&mdash; Peru Partnership</option>
+
+								<option value="/outreach/peru-partnership/family-to-family">&mdash;&mdash; Family to Family</option>
+
+												<option value="/outreach/peru-partnership/peru-mission-missionary-teams">&mdash;&mdash; Missionary Teams</option>
+
+												<option value="/outreach/peru-partnership/container-warehouse">&mdash;&mdash; Container/Warehouse</option>
+
+																								<option value="/stewardship-community-life/stewardship-community-life-pillar"> Stewardship &amp; Community Life</option>
+
+								<option value="/stewardship-community-life/stewardship-community-life-pillar">&mdash; Stewardship &amp; Community Life Pillar</option>
+
+												<option value="/stewardship-community-life/stewardship">&mdash; Stewardship</option>
+
+								<option value="/stewardship-community-life/stewardship/stewardship-opportunities">&mdash;&mdash; Stewardship Opportunities</option>
+
+																<option value="/stewardship-community-life/community-life/cub-scouts">&mdash; Community Life</option>
+
+								<option value="/stewardship-community-life/community-life/cub-scouts">&mdash;&mdash; Cub Scouts</option>
+
+												<option value="/stewardship-community-life/community-life/boy-scouts">&mdash;&mdash; Boy Scouts</option>
+
+												<option value="/stewardship-community-life/community-life/venture-crew-bsa">&mdash;&mdash; Venture Crew, BSA</option>
+
+												<option value="/stewardship-community-life/community-life/girl-scouts-brownies">&mdash;&mdash; Girl Scouts - Brownies</option>
+
+												<option value="/stewardship-community-life/community-life/catholic-young-adults">&mdash;&mdash; Catholic Young Adults</option>
+
+												<option value="/stewardship-community-life/community-life/classic-adult-singles">&mdash;&mdash; Classic Adult Singles</option>
+
+												<option value="/stewardship-community-life/community-life/hospitality">&mdash;&mdash; Hospitality</option>
+
+												<option value="/stewardship-community-life/community-life/keenagers">&mdash;&mdash; Keenagers</option>
+
+												<option value="/stewardship-community-life/community-life/marriage-and-family">&mdash;&mdash; Marriage and Family</option>
+
+												<option value="/stewardship-community-life/community-life/knights-of-columbus">&mdash;&mdash; Knights of Columbus</option>
+
+												<option value="/stewardship-community-life/community-life/the-men-of-st-johns">&mdash;&mdash; The Men of St. John&#039;s</option>
+
+												<option value="/stewardship-community-life/community-life/women-of-st-john-the-baptist">&mdash;&mdash; Women of St. John the Baptist</option>
+
+																								<option value="/administration/administration"> Administration</option>
+
+								<option value="/administration/administration">&mdash; Administration Pillar</option>
+
+												<option value="/administration/finance-board">&mdash; Finance Board</option>
+
+												<option value="/administration/property-board">&mdash; Property Board</option>
+
+												<option value="/administration/communications-committee">&mdash; Communications Committee</option>
+
+												<option value="/administration/nursery">&mdash; Nursery</option>
+
+												<option value="/administration/safe-environment">&mdash; Safe Environment</option>
+
+												<option value="/administration/parish-census">&mdash; Parish Census</option>
+
+												<option value="/administration/ministry-guidelines">&mdash; Ministry Guidelines</option>
+
+																				<option value="/sponsors-list/sponsors-list"> Sponsors</option>
+
+								<option value="/sponsors-list/sponsors-list">&mdash; View Directory</option>
+
+												<option value="/sponsors-list/sponsor-this-site">&mdash; Sponsor This Site</option>
+
+														</select>
+</div>
+</div>
+					<div class="clear"></div>
+								</div>
+								<div class="rt-navborder"></div>
+			</div></div>
+										<div id="rt-transition" class="rt-hidden">
+						<div id="rt-feature">
+				<div class="rt-container">
+					<div class="rt-grid-12 rt-alpha rt-omega">
+    
+</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+						<div class="rt-container">
+				<div id="rt-main-container" class="showcase-margin">
+										<div id="rt-showcase">
+						<div class="rt-container">
+							<div class="rt-grid-12 rt-alpha rt-omega">
+                    <div class="notopmargin">
+                    <div class="rt-block">
+            	<div class="module-surround">
+										<div class="module-content">
+	                	<div class="sprocket-features layout-slideshow" data-slideshow="109">
+	<ul class="sprocket-features-img-list">
+		
+<li class="sprocket-features-index-1">
+		<div class="sprocket-features-img-container" data-slideshow-image>
+					<img src="/images/stories/rotator/Offices Closed banner 2015.jpg" alt="" style="max-width: 100%; height: auto;" />
+			</div>
+		<div class="sprocket-features-content" data-slideshow-content>
+					</div>
+</li>
+
+<li class="sprocket-features-index-2">
+		<div class="sprocket-features-img-container" data-slideshow-image>
+					<img src="/images/stories/rotator/St Johns Summer slide 2015 2.png" alt="" style="max-width: 100%; height: auto;" />
+			</div>
+		<div class="sprocket-features-content" data-slideshow-content>
+					</div>
+</li>
+
+<li class="sprocket-features-index-3">
+		<div class="sprocket-features-img-container" data-slideshow-image>
+					<img src="/images/stories/rotator/slide3.jpg" alt="" style="max-width: 100%; height: auto;" />
+			</div>
+		<div class="sprocket-features-content" data-slideshow-content>
+					</div>
+</li>
+
+<li class="sprocket-features-index-4">
+		<div class="sprocket-features-img-container" data-slideshow-image>
+					<a href="https://docs.google.com/forms/d/16OJt57J6-tbH5MihYAKpalJKS4o0pGryHD1XP8H24s8/viewform?c=0&amp;w=1
+"><img src="/images/stories/rotator/RE TYM registration banner N.jpg" alt="" style="max-width: 100%; height: auto;" /></a>
+			</div>
+		<div class="sprocket-features-content" data-slideshow-content>
+					</div>
+</li>
+
+<li class="sprocket-features-index-5">
+		<div class="sprocket-features-img-container" data-slideshow-image>
+					<a href="http://stelizabethedmond.org/school"><img src="/images/stories/rotator/school/SEAS bldg 2015 banner 2.jpg" alt="" style="max-width: 100%; height: auto;" /></a>
+			</div>
+		<div class="sprocket-features-content" data-slideshow-content>
+					</div>
+</li>
+
+<li class="sprocket-features-index-6">
+		<div class="sprocket-features-img-container" data-slideshow-image>
+					<img src="/images/stories/rotator/slide2.jpg" alt="" style="max-width: 100%; height: auto;" />
+			</div>
+		<div class="sprocket-features-content" data-slideshow-content>
+					</div>
+</li>
+
+<li class="sprocket-features-index-7">
+		<div class="sprocket-features-img-container" data-slideshow-image>
+					<a href="/donate-now-parish"><img src="/images/stories/rotator/Electronic Giving Grow banner 2015.jpg" alt="" style="max-width: 100%; height: auto;" /></a>
+			</div>
+		<div class="sprocket-features-content" data-slideshow-content>
+					</div>
+</li>
+
+<li class="sprocket-features-index-8">
+		<div class="sprocket-features-img-container" data-slideshow-image>
+					<img src="/images/stories/rotator/slide1.jpg" alt="" style="max-width: 100%; height: auto;" />
+			</div>
+		<div class="sprocket-features-content" data-slideshow-content>
+					</div>
+</li>
+	</ul>
+		<div class="sprocket-features-arrows">
+		<span class="arrow next" data-slideshow-next><span>&rsaquo;</span></span>
+		<span class="arrow prev" data-slideshow-previous><span>&lsaquo;</span></span>
+	</div>
+		<div class="sprocket-features-pagination">
+		<ul>
+						    	<li class="active" data-slideshow-pagination="1"><span>1</span></li>
+						    	<li data-slideshow-pagination="2"><span>2</span></li>
+						    	<li data-slideshow-pagination="3"><span>3</span></li>
+						    	<li data-slideshow-pagination="4"><span>4</span></li>
+						    	<li data-slideshow-pagination="5"><span>5</span></li>
+						    	<li data-slideshow-pagination="6"><span>6</span></li>
+						    	<li data-slideshow-pagination="7"><span>7</span></li>
+						    	<li data-slideshow-pagination="8"><span>8</span></li>
+				</ul>
+	</div>
+<div class="sprocket-bottom-gradient"></div>
+</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+				            </div>
+                            </div>
+			                <div class="tightbuffer">
+                    <div class="rt-block">
+            	<div class="module-surround">
+										<div class="module-content">
+	                	
+
+<div class="customtightbuffer"  >
+	<div class="quicklinks">
+<div><a href="/about-us/contact-us"><img class="quicklinkbox" src="/images/stories/solutio/quicklinks/contactus.jpg" border="0" /></a></div>
+<div><a href="/home/mass-times"><img class="quicklinkbox" src="/images/stories/solutio/quicklinks/mass.jpg" border="0" /></a></div>
+<div><a href="https://docs.google.com/a/solutiosoftware.com/forms/d/1kV8dFXy4yznJrRTODpdCXIGgawZyRYI1UoBPfxUbW08/viewform" target="_blank"><img class="quicklinkbox" src="/images/stories/solutio/quicklinks/registration.jpg" border="0" /></a></div>
+<div><a href="/worship/sacraments"><img class="quicklinkbox" src="/images/stories/solutio/quicklinks/sacraments.jpg" border="0" /></a></div>
+<div><a href="/school"><img class="quicklinkbox" src="/images/stories/solutio/quicklinks/school.jpg" border="0" /></a></div>
+<div><a href="/formation/cdc-home"><img class="quicklinkbox" src="/images/stories/solutio/quicklinks/child.jpg" border="0" /></a></div>
+<div><a href="/formation/initiation/rcia"><img class="quicklinkbox" src="/images/stories/solutio/quicklinks/become.jpg" border="0" /></a></div>
+</div></div>
+						<div class="clear"></div>
+					</div>
+				</div>
+				            </div>
+                            </div>
+			
+</div>
+							<div class="clear"></div>
+						</div>
+					</div>
+										<div id="rt-body-surround">
+						<div class="rt-container">
+																					<div id="rt-maintop">
+								<div class="rt-grid-3 rt-alpha">
+                    <div class="box1 title2 fontpagebox2">
+                    <div class="rt-block">
+            	<div class="module-surround">
+										<div class="module-title ">
+						<h2 class="title">Latest Bulletin</h2>
+									            <div class="module-border"></div>
+			        						</div>
+	                					<div class="module-content">
+	                	
+
+
+
+<div class="com_docman mod_docman box1 title2 fontpagebox2">
+    <ul class="nav nav-list icons">
+            <li>
+            <a href="/home/bulletin/526-july-19-2015">
+                                                        <img align="left" src="/media/com_docman/images/icons/pdf.png" width="16px" height="16px" class="icon" onerror="this.parentNode.removeChild(this);">
+                
+                July 19, 2015
+                            </a>
+        </li>
+            <li>
+            <a href="/home/bulletin/523-july-12-2015">
+                                                        <img align="left" src="/media/com_docman/images/icons/pdf.png" width="16px" height="16px" class="icon" onerror="this.parentNode.removeChild(this);">
+                
+                July 12, 2015
+                            </a>
+        </li>
+        </ul>
+</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+				            </div>
+                            </div>
+			                <div class="bulletin-archive">
+                    <div class="rt-block">
+            	<div class="module-surround">
+										<div class="module-content">
+	                	
+
+<div class="custombulletin-archive"  >
+	<p><a href="/home/bulletin">-- Bulletin Archive</a></p></div>
+						<div class="clear"></div>
+					</div>
+				</div>
+				            </div>
+                            </div>
+			                <div class="box1 title2 fontpagebox4">
+                    <div class="rt-block">
+            	<div class="module-surround">
+										<div class="module-title ">
+						<h2 class="title">Popular Pages</h2>
+									            <div class="module-border"></div>
+			        						</div>
+	                					<div class="module-content">
+	                	
+
+<div class="custombox1 title2 fontpagebox4"  >
+	<ul>
+<li><a href="/formation/elementary-re-pre-k-to-5th">Elementary RE</a></li>
+<li><a href="/formation/total-youth-ministry">Total Youth Ministry</a></li>
+<li><a href="/home/meeting-room-event-reservations">Room Reservations</a></li>
+<li><a href="http://www.usccb.org//bible/readings" target="_blank">Daily Scripture Reading</a></li>
+<li><a href="http://www.americancatholic.org/features/saintofday/default.aspx" target="_blank">Saint of the Day</a></li>
+</ul></div>
+						<div class="clear"></div>
+					</div>
+				</div>
+				            </div>
+                            </div>
+			
+</div>
+<div class="rt-grid-3">
+                    <div class="box1 title2 fontpagebox1">
+                    <div class="rt-block">
+            	<div class="module-surround">
+										<div class="module-title ">
+						<h2 class="title">Parish Headlines</h2>
+									            <div class="module-border"></div>
+			        						</div>
+	                					<div class="module-content">
+	                	<ul class="latestnewsbox1 title2 fontpagebox1">
+	<li>
+		<a href="/parish-headlines/986-donate">
+			How to Donate to our Church or School</a>
+	</li>
+	<li>
+		<a href="/parish-headlines/971-st-john-s-master-plan">
+			St John's Master Plan</a>
+	</li>
+	<li>
+		<a href="/parish-headlines/965-advertise-in-our-bulletin">
+			Advertise in our Bulletin</a>
+	</li>
+	<li>
+		<a href="/parish-headlines/784-amazonsmile-supports-seas">
+			AmazonSmile Supports SEAS</a>
+	</li>
+	<li>
+		<a href="/administration/parish-census/712-parish-census">
+			Parish Census</a>
+	</li>
+</ul>
+						<div class="clear"></div>
+					</div>
+				</div>
+				            </div>
+                            </div>
+			
+</div>
+<div class="rt-grid-3">
+                    <div class="box1 title2 upcomingmod fontpagebox1">
+                    <div class="rt-block">
+            	<div class="module-surround">
+										<div class="module-title ">
+						<h2 class="title">Upcoming Events</h2>
+									            <div class="module-border"></div>
+			        						</div>
+	                					<div class="module-content">
+	                	
+
+<div class="custombox1 title2 upcomingmod fontpagebox1"  >
+	<p><iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=stjohnedmondok2%40gmail.com&amp;color=%23060D5E&amp;src=solutiosoftware.net_8msm9288ui8epu6ugdn14f27ts%40group.calendar.google.com&amp;color=%235A6986&amp;src=en.usa%23holiday%40group.v.calendar.google.com&amp;color=%23113F47&amp;ctz=America%2FChicago" style="border-width: 0;" scrolling="no" frameborder="0" height="250" width="100%"></iframe></p>
+<p style="text-align: center; line-height: 8px;"><br /><a class="readon" href="/home/calendar"><span>View Full Calendar</span></a></p></div>
+						<div class="clear"></div>
+					</div>
+				</div>
+				            </div>
+                            </div>
+			
+</div>
+<div class="rt-grid-3 rt-omega">
+                    <div class="searchmod">
+                    <div class="rt-block">
+            	<div class="module-surround">
+										<div class="module-content">
+	                	<form action="/" method="post">
+	<div class="searchsearchmod">
+		<label for="mod-search-searchword">Search...</label><input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputboxsearchmod" type="text" size="20" value="Search..."  onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" />	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="236" />
+	</div>
+</form>
+						<div class="clear"></div>
+					</div>
+				</div>
+				            </div>
+                            </div>
+			                <div class="noborder admod">
+                    <div class="rt-block">
+            	<div class="module-surround">
+										<div class="module-content">
+	                	<table boder="0" cellpadding="0" cellspacing="0">
+			<tr><td style="padding-top: 5px;">
+				<div id="2426-bloch-company-tall"></div>
+		<script type="text/javascript">
+		(function() {
+			var data = {"time":4000,"clickurl":"http:\/\/www.blochco.com\/Home","slides":[{"image":"bloch_tall1.jpg"},{"image":"bloch_tall2.jpg"},{"image":"bloch_tall3.jpg"},{"image":"bloch_tall4.jpg"},{"image":"bloch_tall5.jpg"}]};
+			var w = 165;
+			var h = 150;
+			var image_loc = '/banner-data/2426';
+			createRotatingBanner('2426-bloch-company-tall', w, h, image_loc, data);
+		}());
+		</script>
+		<script type="text/javascript">
+		ga('send', 'event', 'ads', 'impress', '2426-bloch-company-tall', {'nonInteraction': 1});
+		addBannerClickListener('2426-bloch-company-tall', function() {
+			ga('send', 'event', 'ads', 'click', '2426-bloch-company-tall');
+		});
+	</script>
+		</td></tr>
+				<tr><td style="padding-top: 5px;">
+				<div id="2259-remodeling-concepts-inc-tall"></div>
+		<script type="text/javascript">
+		(function() {
+			var data = {"time":4000,"clickurl":"http:\/\/www.remodelingconceptsokc.com\/","slides":[{"image":"remodel_tall1.jpg"},{"image":"remodel_tall2.jpg"},{"image":"remodel_tall3.jpg"},{"image":"remodel_tall4.jpg"},{"image":"remodel_tall5.jpg"}]};
+			var w = 165;
+			var h = 150;
+			var image_loc = '/banner-data/2259';
+			createRotatingBanner('2259-remodeling-concepts-inc-tall', w, h, image_loc, data);
+		}());
+		</script>
+		<script type="text/javascript">
+		ga('send', 'event', 'ads', 'impress', '2259-remodeling-concepts-inc-tall', {'nonInteraction': 1});
+		addBannerClickListener('2259-remodeling-concepts-inc-tall', function() {
+			ga('send', 'event', 'ads', 'click', '2259-remodeling-concepts-inc-tall');
+		});
+	</script>
+		</td></tr>
+	</table>						<div class="clear"></div>
+					</div>
+				</div>
+				            </div>
+                            </div>
+			
+</div>
+								<div class="clear"></div>
+							</div>
+																											              
+<div id="rt-main" class="mb12">
+	<div class="rt-container">
+		<div class="rt-grid-12">
+			<div id="rt-main-column">
+												<div class="rt-block component-block">
+					<div id="rt-mainbody">
+						<div class="component-content rt-joomla">
+							
+<div class="rt-blog homelayout">
+	
+	
+	
+	
+			
+		
+	
+	
+		
+</div>
+						</div>
+					</div>
+					<div class="clear"></div>
+				</div>
+											</div>
+		</div>
+				<div class="clear"></div>
+	</div>
+</div>
+																					<div id="rt-mainbottom">
+								<div class="rt-grid-12 rt-alpha rt-omega">
+                    <div class="box5 title2">
+                    <div class="rt-block">
+            	<div class="module-surround">
+										<div class="module-content">
+	                	
+<div  class="mod_placeherebox5 title2"><div style="overflow:auto;" class="mod_placehere_leading even"><p class="buttonheading"></p>
+				<table style="width: 100%;" border="0" cellspacing="4" cellpadding="4">
+<tbody>
+<tr>
+<td>
+<h1 style="text-align: center;">Mission Statement</h1>
+</td>
+<td>We are a Catholic Christian Community, called to be faithful, caring, enthusiastic disciples.  We build up the Kingdom of God by worshiping and praising Him, proclaiming the Good News of Jesus Christ in word and witness, giving loving service to our neighbor and strengthening the parish community.</td>
+</tr>
+</tbody>
+</table>	<a name="spacer">&nbsp;</a>
+		</div></div>						<div class="clear"></div>
+					</div>
+				</div>
+				            </div>
+                            </div>
+			
+</div>
+								<div class="clear"></div>
+							</div>
+																				</div>
+					</div>
+				</div>
+			</div>
+								</div>
+								<div id="rt-footer-surround">
+												<div id="rt-footer"><div id="rt-footer2">
+										<div class="rt-container">
+											<div class="rt-grid-12 rt-alpha rt-omega">
+                    <div class="noborder admod">
+                    <div class="rt-block">
+            	<div class="module-surround">
+										<div class="module-content">
+	                	<table boder="0" cellpadding="0" cellspacing="0">
+<tr>			<td style="padding-left: 5px;">
+				<div id="2210-a-bloom-above-the-rest-wide"></div>
+		<script type="text/javascript">
+		(function() {
+			var data = {"time":4000,"clickurl":"http:\/\/www.abloomabovetherest.com\/","slides":[{"image":"bloom_wide1.jpg"},{"image":"bloom_wide2.jpg"},{"image":"bloom_wide3.jpg"},{"image":"bloom_wide4.jpg"},{"image":"bloom_wide5.jpg"}]};
+			var w = 495;
+			var h = 75;
+			var image_loc = '/banner-data/2210';
+			createRotatingBanner('2210-a-bloom-above-the-rest-wide', w, h, image_loc, data);
+		}());
+		</script>
+		<script type="text/javascript">
+		ga('send', 'event', 'ads', 'impress', '2210-a-bloom-above-the-rest-wide', {'nonInteraction': 1});
+		addBannerClickListener('2210-a-bloom-above-the-rest-wide', function() {
+			ga('send', 'event', 'ads', 'click', '2210-a-bloom-above-the-rest-wide');
+		});
+	</script>
+		</td>
+				<td style="padding-left: 5px;">
+				<div id="2425-bloch-company-wide"></div>
+		<script type="text/javascript">
+		(function() {
+			var data = {"time":4000,"clickurl":"http:\/\/www.blochco.com\/Home","slides":[{"image":"bloch_wide1.jpg"},{"image":"bloch_wide2.jpg"},{"image":"bloch_wide3.jpg"},{"image":"bloch_wide4.jpg"},{"image":"bloch_wide5.jpg"}]};
+			var w = 330;
+			var h = 75;
+			var image_loc = '/banner-data/2425';
+			createRotatingBanner('2425-bloch-company-wide', w, h, image_loc, data);
+		}());
+		</script>
+		<script type="text/javascript">
+		ga('send', 'event', 'ads', 'impress', '2425-bloch-company-wide', {'nonInteraction': 1});
+		addBannerClickListener('2425-bloch-company-wide', function() {
+			ga('send', 'event', 'ads', 'click', '2425-bloch-company-wide');
+		});
+	</script>
+		</td>
+				<td style="padding-left: 5px;">
+				<a href="http://lookforthecross.com/" id="2467-st-anthonys-healthplex-north" target="_blank"><image src="/banner-data/2467/anthony.jpg" /></a>
+		<script type="text/javascript">
+		ga('send', 'event', 'ads', 'impress', '2467-st-anthonys-healthplex-north', {'nonInteraction': 1});
+		addBannerClickListener('2467-st-anthonys-healthplex-north', function() {
+			ga('send', 'event', 'ads', 'click', '2467-st-anthonys-healthplex-north');
+		});
+	</script>
+		</td>
+	</tr></table>						<div class="clear"></div>
+					</div>
+				</div>
+				            </div>
+                            </div>
+			
+</div>
+						<div class="clear"></div>
+										</div>
+									</div></div>
+							</div>
+									<div id="rt-copyright"><div id="rt-copyright2">
+								<div class="rt-container">
+									<div class="rt-grid-6 rt-alpha">
+                        <div class="rt-block">
+            	<div class="module-surround">
+										<div class="module-content">
+	                	
+
+<div class="custom"  >
+	<h3 class="footertext" style="text-align: left;"><a href="/home">St. John the Baptist Catholic Church</a></h3>
+<hr class="blueline" />
+<p style="text-align: left;"><a href="http://stjohn-catholic.org/about-us/where-to-find-us/directions">900 S. Littler Avenue Edmond, OK 73034</a> | (405) 340-0691 | <a href="mailto:parish@stjohn-catholic.org">parish@stjohn-catholic.org</a></p>
+<p style="text-align: left;">Mailing Address:  PO Box 510 Edmond, OK 73083</p></div>
+						<div class="clear"></div>
+					</div>
+				</div>
+				            </div>
+                    	
+</div>
+<div class="rt-grid-6 rt-omega">
+                        <div class="rt-block">
+            	<div class="module-surround">
+										<div class="module-content">
+	                	
+
+<div class="custom"  >
+	<p style="text-align: right;"><a href="https://stjohn-ed.solutiosoftware.com/administrator" target="_blank"><img class="noborder" src="/images/solutio/lock.png" border="0" /></a></p>
+<p style="text-align: right;"><span style="color: #444444; font-size: x-small;">Site by <a href="http://solutiosoftware.com/" target="_blank"><span style="color: #aaa;">Solutio</span></a></span></p>
+<meta name="google-translate-customization" content="7d45ff84b72bad5-3dadf2c0da718c60-g1c55cffea407af13-14"></meta>
+</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+				            </div>
+                    	
+</div>
+					<div class="clear"></div>
+								</div>
+							</div></div>
+											        <!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-t3-7NWDGR4RP1"
+}
+,
+{
+qacct:"p-tDHWV7YXNsXfD"
+}
+);
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel?a.1=p-t3-7NWDGR4RP1&a.2=p-tDHWV7YXNsXfD" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+	</body>
+</html>

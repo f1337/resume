@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'Flash Player Mac Woes: File Upload, Remoting, Port 80'
+date: 2006-10-06 04:54:00.000000000 -07:00
+categories:
+- essays
+tags:
+- actionscript
+- apache
+- flash
+- flex
+- linux
+status: publish
+type: post
+published: true
+meta: {}
+author:
+  login: fantasticmf
+  email: mofosho+wordpress@fantasticmf.com
+  display_name: michael
+  first_name: Michael
+  last_name: Fleet
+
+
+---
+<dl>
+<dt><b>Symptom:</b></dt>
+<dd>Your Flash file uploads fail for Mac users.</dd>
+<dt><b>Cause:</b></dt>
+<dd>Flash Remoting and FileReference objects automatically append :80 to all requests (in the Mac player). Your web server redirects requests for example.com:80 to example.com. <a href="http://evilsmurfette.blogspot.com/2006/10/dear-dish-on-potassium-benzoate.html" target="_new">That’s bad</a>.</dd>
+<dt><b>Solution:</b></dt>
+<dd>Stop redirecting explicit :80 requests. <a href="http://www.example.com:80" target="_new">example.com:80</a> is a valid resource. Your sysadmin (or hosting provider) may insist otherwise, but s/he would be wrong. Find a more cooperative sysadmin, or switch hosting providers (whichever applies).</dd>
+</dl>
