@@ -12,6 +12,6 @@ published: true
 ---
 In loving memory of our own little Mary Bernadette:
 
-<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/6K3XmlfzdXQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/6K3XmlfzdXQ" frameborder="0" allowfullscreen></iframe>
 
 &mdash; [Saint Bernadette Soubirous of Lourdes](http://www.youtube.com/watch?v=6K3XmlfzdXQ). Martin, James, S.J. [Loyola Productions](http://www.youtube.com/user/lpitube). 9 Feb. 2009.
