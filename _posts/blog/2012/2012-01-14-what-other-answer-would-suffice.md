@@ -2,7 +2,7 @@
 layout: post
 title: ''
 date: 2012-01-14 16:53:42.000000000 -08:00
-categories: philosophy quotes
+categories: culture quotes
 status: publish
 type: post
 published: true

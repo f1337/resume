@@ -2,7 +2,7 @@
 layout: post
 title: 'Nigel Marsh: How to Make Work-Life Balance Work'
 date: 2011-02-19 18:09:11.000000000 -08:00
-categories: philosophy videos
+categories: culture videos
 tags:
 - cult.ure
 - faith

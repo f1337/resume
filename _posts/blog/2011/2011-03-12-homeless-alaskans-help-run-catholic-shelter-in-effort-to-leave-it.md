@@ -2,7 +2,7 @@
 layout: post
 title: Homeless Alaskans Help Run Shelter in Effort to Leave It
 date: 2011-03-12 23:00:37.000000000 -08:00
-categories: philosophy links
+categories: culture links
 tags:
 - catholic
 - social justice

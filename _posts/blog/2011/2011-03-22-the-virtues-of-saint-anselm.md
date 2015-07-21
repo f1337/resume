@@ -2,8 +2,7 @@
 layout: post
 title: The Virtues of Saint Anselm
 date: 2011-03-22 13:59:12.000000000 -07:00
-categories:
-- quotes
+categories: philosopy quotes
 tags:
 - catholic
 - saints

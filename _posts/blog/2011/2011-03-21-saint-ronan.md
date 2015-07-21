@@ -2,7 +2,7 @@
 layout: post
 title: Saint Ronan
 date: 2011-03-21 12:04:28.000000000 -07:00
-categories: philosophy essays quotes
+categories: culture essays quotes
 tags:
 - catholic
 - saints

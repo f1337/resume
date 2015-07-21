@@ -2,7 +2,7 @@
 layout: post
 title: An Unlikely Crusader for Cleaning Up the Food Supply
 date: 2011-04-11 20:21:38.000000000 -07:00
-categories: philosophy videos
+categories: culture videos
 tags:
 - family
 - food

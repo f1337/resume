@@ -2,13 +2,13 @@
 layout: post
 title: Contradicting Sedevacantism
 date: 2011-02-09 22:07:26.000000000 -08:00
-categories: philosophy links quotes
+categories: culture links quotes
 tags:
 - catholic
 - saints
 status: publish
 type: post
-published: true
+published: false
 ---
 > The Sedevacantist arguments have been contradicted by a continuous miracle since 25 May, 1966.
 

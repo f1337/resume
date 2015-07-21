@@ -2,14 +2,14 @@
 layout: post
 title: ""
 date: 2011-02-18 15:16:22.000000000 -08:00
-categories: philosophy links quotes
+categories: culture links quotes
 tags:
 - catholic
 - cult.ure
 - social justice
 status: publish
 type: post
-published: true
+published: false
 ---
 > Unions do not have an absolute right to organize when the effects of their organized efforts is to threaten and damage the common good&hellip;
 

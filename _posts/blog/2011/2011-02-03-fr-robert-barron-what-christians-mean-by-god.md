@@ -1,9 +1,8 @@
 ---
 layout: post
-title: 'Fr. Robert Barron: What Christians Mean by "God"'
+title: What Christians Mean by "God"
 date: 2011-02-03 14:01:38.000000000 -08:00
-categories:
-- videos
+categories: culture videos
 tags:
 - catholic
 - faith

@@ -2,7 +2,7 @@
 layout: post
 title: Rainbow Babies
 date: 2011-02-11 11:05:18.000000000 -08:00
-categories: philosophy quotes
+categories: culture quotes
 tags:
 - faith
 - family

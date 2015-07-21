@@ -2,7 +2,7 @@
 layout: post
 title: Little Sisters Disciples of the Lamb
 date: 2012-02-12 11:36:14.000000000 -08:00
-categories: philosophy links
+categories: culture links
 tags:
 - Down syndrome
 - trisomy 21

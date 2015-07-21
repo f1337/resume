@@ -2,7 +2,7 @@
 layout: post
 title: 'Comparative Evil: Hitler''s Gas Chambers and Stalin''s Cannibalism'
 date: 2011-02-12 13:52:13.000000000 -08:00
-categories: philosophy links quotes
+categories: culture links quotes
 tags:
 - communism
 - cult.ure

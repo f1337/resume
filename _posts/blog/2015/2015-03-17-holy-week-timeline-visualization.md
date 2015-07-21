@@ -2,7 +2,7 @@
 layout: post
 title: Holy Week Timeline Visualization
 date: 2015-03-17 08:07:54.000000000 -07:00
-categories: philosophy links photos
+categories: culture links photos
 tags:
 - catholic
 - faith

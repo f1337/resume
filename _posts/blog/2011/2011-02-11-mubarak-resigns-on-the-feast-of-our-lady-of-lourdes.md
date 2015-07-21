@@ -2,7 +2,7 @@
 layout: post
 title: Mubarak Resigns on the Feast of Our Lady of Lourdes
 date: 2011-02-11 15:17:47.000000000 -08:00
-categories: philosophy links photos quotes
+categories: culture links photos quotes
 tags:
 - catholic
 - cult.ure

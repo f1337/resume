@@ -2,7 +2,7 @@
 layout: post
 title: ""
 date: 2011-03-19 14:32:26.000000000 -07:00
-categories: philosophy links
+categories: culture links
 tags:
 - catholic
 - cult.ure

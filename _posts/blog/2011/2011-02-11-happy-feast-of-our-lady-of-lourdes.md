@@ -2,7 +2,7 @@
 layout: post
 title: Happy Feast of Our Lady of Lourdes!
 date: 2011-02-11 15:47:22.000000000 -08:00
-categories: philosophy videos
+categories: culture videos
 tags:
 - catholic
 - saints

@@ -2,7 +2,7 @@
 layout: post
 title: ''
 date: 2011-03-26 11:50:43.000000000 -07:00
-categories: philosophy quotes
+categories: culture quotes
 tags:
 - catholic
 - social justice

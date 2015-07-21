@@ -2,7 +2,7 @@
 layout: post
 title: Work Is *Not* Prayer
 date: 2011-02-09 16:18:52.000000000 -08:00
-categories: philosophy links quotes
+categories: culture links quotes
 tags:
 - catholic
 - faith

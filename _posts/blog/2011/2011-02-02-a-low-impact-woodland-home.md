@@ -2,9 +2,7 @@
 layout: post
 title: A Low-Impact Woodland Home
 date: 2011-02-02 10:20:58.000000000 -08:00
-categories:
-- links
-- photos
+categories: technology culture links photos
 tags:
 - DIY
 - green
