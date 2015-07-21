@@ -36,14 +36,21 @@ c10.139-19.201,34.917-39.459,71.861-39.459c76.847,0,91.041,50.587,91.041,116.399
 				</a>
 			</li>
 			{% endif %}
-			{% for page in site.pages %}
-				{% if page.title %}
-				<li>
-					<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-				</li>
-				{% endif %}
-			{% endfor %}
+			<li>
+				<a class="page-link" href="{{ '/resume' | prepend: site.baseurl }}">michael.f1337.com/resume</a>
+			</li>
 		</ul>
-	</div>
 
+		<nav class="pages">
+			<ul>
+				{% for page in site.pages %}
+					{% if page.title and page.title != "" %}
+					<li>
+						<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+					</li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+		</nav>
+	</div>
 </header>
