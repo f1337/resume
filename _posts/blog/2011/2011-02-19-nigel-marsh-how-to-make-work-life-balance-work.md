@@ -15,4 +15,4 @@ published: true
 ---
 <iframe src="https://embed-ssl.ted.com/talks/nigel_marsh_how_to_make_work_life_balance_work.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
-via: [TEDxSydney](http://www.ted.com/talks/nigel_marsh_how_to_make_work_life_balance_work.html). h/t @[bcelenza](http://twitter.com/#!/bcelenza).
+via: [TEDxSydney](http://www.ted.com/talks/nigel_marsh_how_to_make_work_life_balance_work.html)

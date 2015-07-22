@@ -15,4 +15,4 @@ published: true
 
 Click to enlarge. Also available as a [PDF](http://bg3-blog.s3.amazonaws.com/blog/wp-content/uploads/2014/04/holy-week-timeline2.pdf).
 
-via: [BibleGateway Blog](https://www.biblegateway.com/blog/2015/03/bible-gateway-holy-week-infographic-published-in-newsweek/). h/t @[weisjohn](http://twitter.com/weisjohn).
+via: [BibleGateway Blog](https://www.biblegateway.com/blog/2015/03/bible-gateway-holy-week-infographic-published-in-newsweek/)
