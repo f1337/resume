@@ -5,6 +5,7 @@ url: "http://michael.f1337.com" # the base hostname & protocol for your site
 github_username: f1337
 linkedin_path: in/f1337 # your linkedin url, without the leading www.linkedin.com/
 email: resume@f1337.us
+excerpt_separator: "<!-- more -->"
 paginate: 20
 
 # Build settings

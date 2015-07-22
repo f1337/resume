@@ -12,6 +12,7 @@ tags:
 status: publish
 type: post
 published: true
+excerpt: ''
 ---
 How to make the Android NDK compile Objective-C! Many thanks to Jackie Gleason ([@LifeIsTooShort](http://twitter.com/LifeIsTooShort)) for his [M3 Conference](http://www.m3conf.com/) ([@M3Conf](https://twitter.com/#!/M3Conf)) presentation, [Adding Objective-C Support to the Android NDK](https://docs.google.com/present/view?id=dfj692w3_351gq89x8fv), upon which most of this tutorial is based.
 

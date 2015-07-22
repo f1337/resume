@@ -4,9 +4,9 @@ title: Controlling Raspberry Pi GPIO Pins with WebIOPi
 date:   2015-07-18 16:59:00
 categories: technology essays
 tags: raspberry-pi
+excerpt: ''
 ---
-
-Install WebIOPi:
+### 1. Install WebIOPi
 
 	cd ~
 	curl -O http://sourceforge.net/projects/webiopi/files/WebIOPi-0.7.1.tar.gz
@@ -15,23 +15,23 @@ Install WebIOPi:
 	sudo ./setup.sh
 	Do you want to access WebIOPi over Internet ? [y/n] n
 
-Change the default username and password:
+### 2. Change the default username and password
 
 	sudo webiopi-passwd
 
-Change default port, doc-root, etc:
+### 3. Change default port, doc-root, etc
 
 	sudo nano /etc/webiopi/config
 
-Test the installation succeeded:
+### 4. Test the installation succeeded
 
 	sudo webiopi -d -c /etc/webiopi/config
 
-Run as a service:
+### 5. Run as a service
 
 	sudo /etc/init.d/webiopi start
 
-Ensure service runs at boot:
+### 6. Ensure service runs at boot
 
 	sudo update-rc.d webiopi defaults
 

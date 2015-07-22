@@ -1,0 +1,34 @@
+<div class="home">
+
+	<ul class="post-list">
+		{% for post in include.posts %}
+			{% if post.layout == 'post' %}
+			<li>
+				<article class="post">
+
+					<header class="post-header">
+						<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+						{% if post.title != '' %}
+						<h2>
+							<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+						</h2>
+						{% endif %}
+					</header>
+
+					<section class="post-content">
+						{{ post.excerpt }}
+					</section>
+
+					{% if post.content contains "<!-- more -->" and post.excerpt != '' %}
+					<footer>
+						<a href="{{ post.url | prepend: site.baseurl }}">continue reading&hellip;</a>
+					</footer>
+					{% endif %}
+
+				</article>
+			</li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+
+</div>

@@ -12,6 +12,7 @@ tags:
 status: publish
 type: post
 published: true
+excerpt: ''
 ---
 Yesterday, while using the [Google Blog Converters](http://code.google.com/p/google-blog-converters-appengine) to migrate a blog from Blogger to WordPress (see the "Plan B" section of [Migrating an old Blogger blog to WordPress](http://artlung.com/blog/2010/03/02/migrating-an-old-blogger-blog-to-wordpress/)), I encountered the following error:
 
