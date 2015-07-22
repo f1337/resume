@@ -2,7 +2,7 @@
 layout: post
 title: Saint Ronan
 date: 2011-03-21 12:04:28.000000000 -07:00
-categories: culture essays quotes
+categories: culture essays
 tags:
 - catholic
 - saints
@@ -13,6 +13,8 @@ published: true
 > At one time, Ronan was so oppressed with hunger and fatigue, that he was obliged to seek a means of living from a good peasant, who hospitably entertained him. So touched was his host with the purity of Ronan's motives, that he asked permission some times to visit the saint.
 
 > However, Keban, the wife of this peasant, was a passionate and an envious woman, who gave way to her irritability of temper when she found her husband staying too long at the hermitage. Keban complained that he had neglected her and had become idle; while her complaints were especially directed against Ronan, who bore these reproaches in silence and with admirable patience. This only increased her fury, and she furthermore circulated calumnies against him, among her neighbors who were over-credulous. She pretended that Ronan was a magician who was desirous of initiating her husband to the mysteries of some diabolic arts. Although her false statements were credited by some ignorant persons; yet those who were more reasonable continued to honor Ronan, and this served to counteract her malicious designs. But she conceived a still more wicked project to effect her revenge.
+
+<!-- more -->
 
 > She had a little daughter, only between four and five years, and her she concealed in a closet. Then she circulated a report that Ronan, through his magic arts, was able to transform himself into a wild beast whenever he so willed, while in such a guise he was the wolf, which destroyed so many animals in that part of the country. She averred, moreover, that hating herself more than any of the other inhabitants there, that abominable man had devoured her only daughter. These charges created a popular excitement, and accompanied by many other women, Keban immediately went to the Saint's hermitage, and with horrible cries demanded her child.
 

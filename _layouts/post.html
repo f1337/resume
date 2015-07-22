@@ -4,12 +4,15 @@ layout: default
 <div class="post">
 
 	<header class="post-header">
-		<h2 class="post-title">{{ page.title }}</h2>
+		<h2 class="post-title">
+			{% if page.link %}<a href="{{ page.link }}">{% endif %}
+			{{ page.title }}
+			{% if page.link %}</a>{% endif %}
+		</h2>
 		<p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</p>
 	</header>
 
 	<article class="post-content">
 		{{ content }}
 	</article>
-
 </div>

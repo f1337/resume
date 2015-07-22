@@ -9,7 +9,8 @@ tags:
 status: publish
 type: post
 published: true
+link: "http://www.catholicnewsagency.com/news/homeless-alaskans-help-run-catholic-shelter-in-effort-to-leave-it/"
 ---
 > As a volunteer, Payne has a small bedroom in the staff quarters, which accommodates up to 10 people. He said some people “choose to use the shelter as a flophouse for a hangover” and addiction and mental health problems plague many guests. But if you’re motivated, “this is an awesome place for people wanting to help themselves.”
 
-&mdash; [Homeless Alaskans Help Run Catholic Shelter in Effort to Leave It](http://www.catholicnewsagency.com/news/homeless-alaskans-help-run-catholic-shelter-in-effort-to-leave-it/). Caldarola, Effie. CatholicAnchor.org. 26 Feb. 2011.
+&mdash; Caldarola, Effie. CatholicAnchor.org. 26 Feb. 2011.

@@ -47,26 +47,30 @@ Next, install Passenger:
 
 ### Configure Apache
 
-`nano /etc/httpd/conf.d/mod_rails.conf`
+	nano /etc/httpd/conf.d/mod_rails.conf
 
-	LoadModule passenger_module /usr/local/lib/ruby/gems/1.8/gems/passenger-3.0.2/ext/apache2/mod_passenger.so
-	PassengerRoot /usr/local/lib/ruby/gems/1.8/gems/passenger-3.0.2
-	PassengerRuby /usr/local/bin/ruby
+{% highlight apache %}
+LoadModule passenger_module /usr/local/lib/ruby/gems/1.8/gems/passenger-3.0.2/ext/apache2/mod_passenger.so
+PassengerRoot /usr/local/lib/ruby/gems/1.8/gems/passenger-3.0.2
+PassengerRuby /usr/local/bin/ruby
+{% endhighlight %}
 
-`nano /etc/httpd/conf.d/myrailsapp.conf`
+	nano /etc/httpd/conf.d/myrailsapp.conf
 
-	<VirtualHost *:80>
-			ServerAdmin webmaster@dummy-host.example.com
-			DocumentRoot /var/www/myrailsapp/public
-			ServerName dummy-host.example.com
-			ErrorLog /var/www/myrailsapp/log/error_log
-			CustomLog /var/www/myrailsapp/log/access_log common
-			# mod_rails
-			<Directory /var/www/myrailsapp/public>
-				RailsEnv production
-				Options -Multiviews
+{% highlight apache %}
+<VirtualHost *:80>
+	ServerAdmin webmaster@dummy-host.example.com
+	DocumentRoot /var/www/myrailsapp/public
+	ServerName dummy-host.example.com
+	ErrorLog /var/www/myrailsapp/log/error_log
+	CustomLog /var/www/myrailsapp/log/access_log common
+	# mod_rails
+	<Directory /var/www/myrailsapp/public>
+		RailsEnv production
+		Options -Multiviews
+{% endhighlight %}
 
-`service httpd restart`
+	service httpd restart
 
 ### Install Rails via Bundler
 

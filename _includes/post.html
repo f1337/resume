@@ -7,10 +7,10 @@
 				<article class="post">
 
 					<header class="post-header">
-						<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+						<span class="post-meta"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%b %-d, %Y %H:%M:%S" }}</a></span>
 						{% if post.title != '' %}
 						<h2>
-							<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+							<a class="post-link" href="{% if post.link %}{{ post.link }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a>
 						</h2>
 						{% endif %}
 					</header>

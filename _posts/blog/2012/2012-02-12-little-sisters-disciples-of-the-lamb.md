@@ -10,9 +10,8 @@ tags:
 status: publish
 type: post
 published: true
+link: "http://exlaodicea.wordpress.com/2010/01/11/little-sisters-disciples-of-the-lamb/"
 ---
 > The Little Sisters Disciples of the Lamb are a contemplative community that enables girls with Down’s syndrome to respond to a religious vocation.
 
 > We follow every day the "little way" taught by Saint Therese; knowing that "great actions are forbidden to us," we learn from her to receive everything from God, to "love for the brothers who fight," to "scatter flowers for Jesus," and to pray for the intentions entrusted to us.
-
-via: [Loadicea](http://exlaodicea.wordpress.com/2010/01/11/little-sisters-disciples-of-the-lamb/)
