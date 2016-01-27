@@ -2,15 +2,16 @@
 
 	<section class="post-content">
 		<img alt="Quote" src="/images/quote.png" />
-		{{ post.content }}
+		{{ post.content | strip_html }}
 	</section>
 
 	<footer>
 		<h4>&mdash;
 			<a
 				class="linkedin-profileinsider-popup"
-				href="http://www.linkedin.com/{{ post.linkedin_path }}">{{ post.author }}</a>
+				href="http://www.linkedin.com/{{ post.linkedin_path }}">{{ post.author }}</a>,
 			<em>{{ post.title }}</em>
+		</h4>
 	</footer>
 
 </article>

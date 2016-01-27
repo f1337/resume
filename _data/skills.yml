@@ -18,7 +18,6 @@
 - ActionScript
 - Flash
 - Flex
-- AIR
 - HTML5
 - XML
 - XSLT
@@ -27,6 +26,7 @@
 - Vagrant
 - Chef
 - Puppet
+- Jenkins
 - Apache
 - WebLogic
 - Oracle Commerce (ATG/Endeca)

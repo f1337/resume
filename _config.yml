@@ -10,5 +10,6 @@ paginate: 20
 
 # Build settings
 markdown: kramdown
-exclude: [ 'archive', 'Gemfile', 'Gemifile.lock', 's3_website.yml' ]
+exclude: [ 'archive', 'Gemfile', 'Gemfile.lock', 's3_website.yml' ]
 permalink: /:year/:month/:day/:title/
+gems: [ jekyll-paginate ]
