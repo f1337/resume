@@ -1,0 +1,153 @@
+a {
+  color: #000;
+  text-decoration: none; }
+  a:visited {
+    color: #000; }
+
+body {
+  background-color: #fff;
+  color: #000;
+  margin: 0;
+  padding: 0; }
+
+body, p, ol, ul, td {
+  font-family: helvetica neue, helvetica, arial, verdana, sans-serif;
+  font-size: 8pt;
+  line-height: normal; }
+
+h2 {
+  clear: both;
+  color: #000;
+  font-size: 11pt;
+  border-bottom: 2px solid #000;
+  padding-bottom: 0.2em;
+  padding-top: 0.3em; }
+
+ul {
+  padding-left: 1em;
+  margin-left: 1em; }
+
+/**
+* HEADER
+**/
+.site-header h1 {
+  float: left;
+  padding: 0;
+  margin: 0; }
+.site-header .contact-list {
+  float: right;
+  list-style-type: none;
+  padding: 0;
+  margin: 0; }
+.site-header .pages {
+  display: none; }
+
+/*
+* EXPERIENCE
+*/
+#experience h3 {
+  display: inline; }
+  #experience h3:after {
+    content: ", "; }
+#experience h4 {
+  display: inline;
+  font-weight: normal; }
+#experience h5 {
+  font-weight: normal;
+  margin: 0;
+  padding: 0; }
+#experience .post-content {
+  margin: 1em 0; }
+  #experience .post-content li {
+    list-style-type: disc; }
+#experience ul.post-list {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0; }
+
+/*
+* PATENTS
+*/
+#patents h3, #education h3 {
+  margin: 0;
+  padding: 0; }
+#patents h4, #education h4 {
+  display: inline;
+  font-weight: normal; }
+  #patents h4:after, #education h4:after {
+    content: " | "; }
+#patents h5, #education h5 {
+  display: inline;
+  font-weight: normal;
+  margin: 0;
+  padding: 0; }
+#patents .post-content, #education .post-content {
+  margin: 1em 0; }
+  #patents .post-content li, #education .post-content li {
+    list-style-type: disc; }
+#patents ul.post-list, #education ul.post-list {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0; }
+
+/**
+* RECOMMENDATIONS
+**/
+#recommendations {
+  page-break-before: always; }
+  #recommendations h4 {
+    display: inline;
+    font-weight: normal; }
+  #recommendations ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0; }
+    #recommendations ul li section, #recommendations ul li footer {
+      margin: 0 1em 1em 0; }
+    #recommendations ul li img {
+      border: 0 none;
+      float: left;
+      /* clear for IE */
+      clear: both;
+      height: 24px;
+      width: 25px;
+      padding: 0;
+      margin: 0 0.6em 0.6em 0; }
+
+/**
+* SKILLS
+**/
+#skills ul {
+  padding-left: 0;
+  margin-left: 0; }
+
+/**
+* FOOTER
+**/
+.site-footer {
+  display: none; }
+
+/**
+* Imported from main.scss
+**/
+/**
+* Imported from _base.scss
+**/
+.icon > svg {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  vertical-align: middle; }
+  .icon > svg path {
+    fill: #828282; }
+
+/**
+* Imported from _layout.scss
+**/
+#skills li {
+  display: inline;
+  list-style-type: none; }
+  #skills li:after {
+    content: ", "; }
+  #skills li:last-child:after {
+    content: ""; }
